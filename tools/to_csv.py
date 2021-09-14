@@ -29,7 +29,7 @@ def run():
         services, situations = yaml.safe_load(f)
 
     write(flatten(services), 'services.csv', ('slug', 'name_en', 'name_he'))
-    write(flatten(situations), 'situations.csv', ())
+    write(flatten(situations), 'situations.csv', ('slug', 'name_en', 'name_he'))
 
 
 if __name__ == '__main__':
