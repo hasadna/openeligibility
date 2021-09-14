@@ -36,8 +36,8 @@ def run():
     with io.open(Path('taxonomy.tx.yaml')) as f:
         services, situations = yaml.safe_load(f)
 
-    write(flatten(services), 'services.csv', ('slug', 'name_en', 'name_he', 'name_en', 'name_he', 'name_en', 'name_he'))
-    write(flatten(situations), 'situations.csv', ('slug', 'name_en', 'name_he'))
+    write(flatten(services), 'services.csv', ('slug', 'g:name_en', 'g:name_he', 'p:name_en', 'p:name_he', 'name_en', 'name_he'))
+    write(flatten(situations), 'situations.csv', ('slug', 'g:name_en', 'g:name_he', 'p:name_en', 'p:name_he', 'name_en', 'name_he'))
 
 
 if __name__ == '__main__':
