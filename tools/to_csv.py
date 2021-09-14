@@ -18,14 +18,14 @@ def flatten(node):
 
 
 def write(filelike, filepath, headers=None):
-    with io.open(f'formats/{filepath}', 'w') as servicesf:
+    with io.open(Path(f'formats/{filepath}'), 'w') as servicesf:
         writer = csv.writer(servicesf)
         writer.writerow(headers) if headers else None
         writer.writerows(filelike)
 
 
 def run():
-    with io.open('taxonomy.tx.yaml') as f:
+    with io.open(Path('taxonomy.tx.yaml')) as f:
         services, situations = yaml.safe_load(f)
 
     write(flatten(services), 'services.csv', ('slug', 'name_en', 'name_he'))
