@@ -1,4 +1,4 @@
-slug,g:name_en,g:name_he,p:name_en,p:name_he,name_en,name_he
+slug,level0:name_en,level0:name_he,level1:name_en,level1:name_he,level2:name_en,level2:name_he
 human_situations,Human Situations,מצבים 
 human_situations:general,Human Situations,מצבים ,General,כללי 
 human_situations:general:anyone_in_need,Human Situations,מצבים ,General,כללי ,Anyone in Need,כל אדם הצריך עזרה
@@ -24,7 +24,7 @@ human_situations:justice_involvement:in_jail,Human Situations,מצבים ,Justic
 human_situations:disability,Human Situations,מצבים ,Disability,מוגבלויות 
 human_situations:disability:all_disabilities,Human Situations,מצבים ,Disability,מוגבלויות ,All Disabilities,כל המוגבלויות 
 human_situations:disability:learning_disability,Human Situations,מצבים ,Disability,מוגבלויות ,Learning Disability,קשיי למידה והפרעות קשב וריכוז
-human_situations:disability:learning_disability:add_adhd,Disability,מוגבלויות ,Learning Disability,קשיי למידה והפרעות קשב וריכוז,ADD/ADHD,
+human_situations:disability:learning_disability:add_adhd,Human Situations,מצבים ,Disability,מוגבלויות ,Learning Disability,קשיי למידה והפרעות קשב וריכוז,ADD/ADHD,
 human_situations:disability:developmental_disability,Human Situations,מצבים ,Disability,מוגבלויות ,Developmental Disability,נכות התפתחותית
 human_situations:disability:physical_disability,Human Situations,מצבים ,Disability,מוגבלויות ,Physical Disability,
 human_situations:disability:intellectual_disability,Human Situations,מצבים ,Disability,מוגבלויות ,Intellectual Disability,מוגבלות שכלית
@@ -51,45 +51,45 @@ human_situations:guardianship,Human Situations,מצבים ,Guardianship,אפוט
 human_situations:guardianship:foster_youth,Human Situations,מצבים ,Guardianship,אפוטרופסות ,Foster Youth,נוער אומנה
 human_situations:health,Human Situations,מצבים ,Health,בריאות
 human_situations:health:treatment_phases,Human Situations,מצבים ,Health,בריאות,Treatment Phases,שלבי טיפול
-human_situations:health:treatment_phases:all_care_phases,Health,בריאות,Treatment Phases,שלבי טיפול,All Care Phases,כל שלבי הטיפול
-human_situations:health:treatment_phases:hospitalized,Health,בריאות,Treatment Phases,שלבי טיפול,Hospitalized,אשפוז
-human_situations:health:treatment_phases:recently_diagnosed,Health,בריאות,Treatment Phases,שלבי טיפול,Recently Diagnosed,אבחנה טרייה
-human_situations:health:treatment_phases:on_treatment,Health,בריאות,Treatment Phases,שלבי טיפול,On-Treatment,בטיפול
-human_situations:health:treatment_phases:post_treatment,Health,בריאות,Treatment Phases,שלבי טיפול,Post-Treatment,אחרי טיפול
-human_situations:health:treatment_phases:facing_end_of_life,Health,בריאות,Treatment Phases,שלבי טיפול,Facing End of Life,גסיסה
+human_situations:health:treatment_phases:all_care_phases,Human Situations,מצבים ,Health,בריאות,Treatment Phases,שלבי טיפול,All Care Phases,כל שלבי הטיפול
+human_situations:health:treatment_phases:hospitalized,Human Situations,מצבים ,Health,בריאות,Treatment Phases,שלבי טיפול,Hospitalized,אשפוז
+human_situations:health:treatment_phases:recently_diagnosed,Human Situations,מצבים ,Health,בריאות,Treatment Phases,שלבי טיפול,Recently Diagnosed,אבחנה טרייה
+human_situations:health:treatment_phases:on_treatment,Human Situations,מצבים ,Health,בריאות,Treatment Phases,שלבי טיפול,On-Treatment,בטיפול
+human_situations:health:treatment_phases:post_treatment,Human Situations,מצבים ,Health,בריאות,Treatment Phases,שלבי טיפול,Post-Treatment,אחרי טיפול
+human_situations:health:treatment_phases:facing_end_of_life,Human Situations,מצבים ,Health,בריאות,Treatment Phases,שלבי טיפול,Facing End of Life,גסיסה
 human_situations:health:pregnant,Human Situations,מצבים ,Health,בריאות,Pregnant,הריון
 human_situations:health:cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן
-human_situations:health:cancer:all_cancer_types,Health,בריאות,Cancer,סרטן,All Cancer Types,כל סוגי הסרטן
-human_situations:health:cancer:bladder_cancer,Health,בריאות,Cancer,סרטן,Bladder Cancer,סרטן שפוחית השתן
-human_situations:health:cancer:brain_stem_glioma,Health,בריאות,Cancer,סרטן,Brain Stem Glioma,
-human_situations:health:cancer:brain_tumor,Health,בריאות,Cancer,סרטן,Brain Tumor,גידול במח
-human_situations:health:cancer:breast_cancer,Health,בריאות,Cancer,סרטן,Breast Cancer,סרטן השד
-human_situations:health:cancer:central_nervous_system,Health,בריאות,Cancer,סרטן,Central Nervous System, סרטן מערכת העצבים
-human_situations:health:cancer:cervical_cancer,Health,בריאות,Cancer,סרטן,Cervical Cancer,סרטן צוואר הרחם
-human_situations:health:cancer:colon_cancer,Health,בריאות,Cancer,סרטן,Colon Cancer,סרטן המעי
-human_situations:health:cancer:colorectal_cancer,Health,בריאות,Cancer,סרטן,Colorectal Cancer,סרטן המעי הגס
-human_situations:health:cancer:desmoid_tumors,Health,בריאות,Cancer,סרטן,Desmoid Tumors,
-human_situations:health:cancer:endomentrial_cancer,Health,בריאות,Cancer,סרטן,Endomentrial Cancer,סרטן רירית הרחם
-human_situations:health:cancer:head_neck_cancer,Health,בריאות,Cancer,סרטן,Head & Neck Cancer,סרטן הראש והצוואר
-human_situations:health:cancer:leukemia,Health,בריאות,Cancer,סרטן,Leukemia,סרטן הדם
-human_situations:health:cancer:liver_cancer,Health,בריאות,Cancer,סרטן,Liver Cancer,סרטן הכבד
-human_situations:health:cancer:lung_cancer,Health,בריאות,Cancer,סרטן,Lung Cancer,סרטן הריאה
-human_situations:health:cancer:lymphoma,Health,בריאות,Cancer,סרטן,Lymphoma,לימפומה
-human_situations:health:cancer:neuroblastoma,Health,בריאות,Cancer,סרטן,Neuroblastoma,
-human_situations:health:cancer:ovarian_cancer,Health,בריאות,Cancer,סרטן,Ovarian Cancer,סרטן השחלות
-human_situations:health:cancer:sarcoma,Health,בריאות,Cancer,סרטן,Sarcoma,סרקומה
-human_situations:health:cancer:skin_cancer,Health,בריאות,Cancer,סרטן,Skin Cancer,סרטן העור
-human_situations:health:cancer:stomach_gastric_cancer,Health,בריאות,Cancer,סרטן,Stomach (Gastric) Cancer,סרטן הקיבה
-human_situations:health:cancer:testicular_cancer,Health,בריאות,Cancer,סרטן,Testicular Cancer,סרטן האשכים
-human_situations:health:cancer:throat_cancer,Health,בריאות,Cancer,סרטן,Throat Cancer,סרטן הגרון
-human_situations:health:cancer:thyroid_cancer,Health,בריאות,Cancer,סרטן,Thyroid Cancer,סרטן בלוטות התריס
-human_situations:health:cancer:vaginal_cancer,Health,בריאות,Cancer,סרטן,Vaginal Cancer,סרטן הנרתיק
-human_situations:health:cancer:vulvar_cancer,Health,בריאות,Cancer,סרטן,Vulvar Cancer,סרטן הפות
-human_situations:health:cancer:wilms_tumor,Health,בריאות,Cancer,סרטן,Wilms Tumor,
+human_situations:health:cancer:all_cancer_types,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,All Cancer Types,כל סוגי הסרטן
+human_situations:health:cancer:bladder_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Bladder Cancer,סרטן שפוחית השתן
+human_situations:health:cancer:brain_stem_glioma,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Brain Stem Glioma,
+human_situations:health:cancer:brain_tumor,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Brain Tumor,גידול במח
+human_situations:health:cancer:breast_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Breast Cancer,סרטן השד
+human_situations:health:cancer:central_nervous_system,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Central Nervous System, סרטן מערכת העצבים
+human_situations:health:cancer:cervical_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Cervical Cancer,סרטן צוואר הרחם
+human_situations:health:cancer:colon_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Colon Cancer,סרטן המעי
+human_situations:health:cancer:colorectal_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Colorectal Cancer,סרטן המעי הגס
+human_situations:health:cancer:desmoid_tumors,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Desmoid Tumors,
+human_situations:health:cancer:endomentrial_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Endomentrial Cancer,סרטן רירית הרחם
+human_situations:health:cancer:head_neck_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Head & Neck Cancer,סרטן הראש והצוואר
+human_situations:health:cancer:leukemia,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Leukemia,סרטן הדם
+human_situations:health:cancer:liver_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Liver Cancer,סרטן הכבד
+human_situations:health:cancer:lung_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Lung Cancer,סרטן הריאה
+human_situations:health:cancer:lymphoma,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Lymphoma,לימפומה
+human_situations:health:cancer:neuroblastoma,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Neuroblastoma,
+human_situations:health:cancer:ovarian_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Ovarian Cancer,סרטן השחלות
+human_situations:health:cancer:sarcoma,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Sarcoma,סרקומה
+human_situations:health:cancer:skin_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Skin Cancer,סרטן העור
+human_situations:health:cancer:stomach_gastric_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Stomach (Gastric) Cancer,סרטן הקיבה
+human_situations:health:cancer:testicular_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Testicular Cancer,סרטן האשכים
+human_situations:health:cancer:throat_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Throat Cancer,סרטן הגרון
+human_situations:health:cancer:thyroid_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Thyroid Cancer,סרטן בלוטות התריס
+human_situations:health:cancer:vaginal_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Vaginal Cancer,סרטן הנרתיק
+human_situations:health:cancer:vulvar_cancer,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Vulvar Cancer,סרטן הפות
+human_situations:health:cancer:wilms_tumor,Human Situations,מצבים ,Health,בריאות,Cancer,סרטן,Wilms Tumor,
 human_situations:health:alzheimer_s,Human Situations,מצבים ,Health,בריאות,Alzheimer's,אלצהיימר
 human_situations:health:terminal_illness,Human Situations,מצבים ,Health,בריאות,Terminal Illness,מחלה סופנית
 human_situations:health:infectious_disease,Human Situations,מצבים ,Health,בריאות,Infectious Disease,מחלה מדבקת
-human_situations:health:infectious_disease:hiv_aids,Health,בריאות,Infectious Disease,מחלה מדבקת,HIV/AIDS,איידס / HIV
+human_situations:health:infectious_disease:hiv_aids,Human Situations,מצבים ,Health,בריאות,Infectious Disease,מחלה מדבקת,HIV/AIDS,איידס / HIV
 human_situations:health:neuromuscular_disease,Human Situations,מצבים ,Health,בריאות,Neuromuscular Disease,מחלה עצבית -שרירית
 human_situations:health:all_mental_health,Human Situations,מצבים ,Health,בריאות,All Mental Health,בריאות הנפש כללי
 human_situations:health:chronic_illness,Human Situations,מצבים ,Health,בריאות,Chronic Illness,מחלה כרונית
@@ -104,9 +104,9 @@ human_situations:health:mental_illness,Human Situations,מצבים ,Health,בר�
 human_situations:household,Human Situations,מצבים ,Household,מצב משפחתי
 human_situations:household:individuals,Human Situations,מצבים ,Household,מצב משפחתי,Individuals,יחידים.ות
 human_situations:household:families,Human Situations,מצבים ,Household,מצב משפחתי,Families,משפחות
-human_situations:household:families:with_children,Household,מצב משפחתי,Families,משפחות,With Children,עם ילדים
-human_situations:household:families:single_parent,Household,מצב משפחתי,Families,משפחות,Single Parent,חד הוריות
-human_situations:household:families:divorced,Household,מצב משפחתי,Families,משפחות,Divorced,גירושים
+human_situations:household:families:with_children,Human Situations,מצבים ,Household,מצב משפחתי,Families,משפחות,With Children,עם ילדים
+human_situations:household:families:single_parent,Human Situations,מצבים ,Household,מצב משפחתי,Families,משפחות,Single Parent,חד הוריות
+human_situations:household:families:divorced,Human Situations,מצבים ,Household,מצב משפחתי,Families,משפחות,Divorced,גירושים
 human_situations:household:families:surrogacy,Human Situations,מצבים ,Household,מצב משפחתי,Surrogacy,פונדקאות
 human_situations:housing,Human Situations,מצבים ,Housing,דיור
 human_situations:housing:home_owners,Human Situations,מצבים ,Housing,דיור,Home Owners,בעלי בתים
