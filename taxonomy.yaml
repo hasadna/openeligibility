@@ -1460,7 +1460,7 @@
     - human_situations:urgency:emergency
 - name: Human Situations
   slug: human_situations
-  description: "These are common attributes about a person. These can be used to help match a person\u2019s situation with available human services."
+  description: "These are common attributes about a person. These can be used to help match a person's situation with available human services."
   items:
   - name: General
     slug: human_situations:general
@@ -1573,12 +1573,12 @@
     - name: Dropouts
       slug: human_situations:education:dropouts
     - name: Special needs
-      slug: human_situations:education:speacial_needs
+      slug: human_situations:education:special_needs
     - name: Students
       slug: human_situations:education:students
     - name: Yeshiva students
       slug: human_situations:education:yeshiva_students
-    - - name: Youth village / Boarding school
+    - name: Youth village / Boarding school
       slug: human_situations:education:youth_village_boarding_school
     related:
     - human_services:education
@@ -1616,11 +1616,11 @@
       - name: Home Care
         slug: human_situations:health:treatment_phases:home_care
       - name: Nursing Care
-          slug: human_situations:health:treatment_phases:nursing_care
+        slug: human_situations:health:treatment_phases:nursing_care
     - name: Pregnant
       slug: human_situations:health:pregnant
     - name: Fertility
-    slug: human_situations:health:fertility
+      slug: human_situations:health:fertility
     - name: Neoplasm
       slug: human_situations:health:neoplasm
       items:
@@ -1641,8 +1641,8 @@
           slug: human_situations:health:neoplasm:cancer:cervical_cancer
         - name: Colon Cancer
           slug: human_situations:health:neoplasm:cancer:colon_cancer
-        - name: Endomentrial Cancer
-          slug: human_situations:health:neoplasm:cancer:endomentrial_cancer
+        - name: Endometrial Cancer
+          slug: human_situations:health:neoplasm:cancer:endometrial_cancer
         - name: Head & Neck Cancer
           slug: human_situations:health:neoplasm:cancer:head_neck_cancer
         - name: Leukemia
@@ -1690,46 +1690,45 @@
       - name: Parkinson's
       - slug: human_situations:health:nervous_system_disease:parkinsons
     - name: Neurodevelopmental Disorders
-    - slug: human_situations:health:neurodevelopmental_disorders
+      slug: human_situations:health:neurodevelopmental_disorders
       items:
       - name: Autistic spectrum
-      - slug: human_situations:health:neurodevelopmental_disorders:autistic_spectrum
+        slug: human_situations:health:neurodevelopmental_disorders:autistic_spectrum
     - name: Respiratory System Disease
-    - slug: human_situations:health:respiratory_system
+      slug: human_situations:health:respiratory_system
       items:
       - name: Asthma
-      - slug: human_situations:health:respiratory_system:Asthma
+        slug: human_situations:health:respiratory_system:Asthma
     - name: Rare diseases
-    - slug: human_situations:health:rare_diseases
+      slug: human_situations:health:rare_diseases
       items:
-      - name: Familial dysautonomia
-      - slug: human_situations:health:rare_diseases:familial_dysautonomia
+      - name: Familial Dysautonomia
+        slug: human_situations:health:rare_diseases:familial_dysautonomia
     - name: Heart diseases
-    - slug: human_situations:health:heart_diseases
-    -
+      slug: human_situations:health:heart_diseases
     - name: Chronic Illness
       slug: human_situations:health:chronic_illness
     - name: Genetic Disorder
       slug: human_situations:health:genetic_disorder
     - name: Rheumatic Diseases
-    - slug: human_situations:health:rheumatic_diseases
+      slug: human_situations:health:rheumatic_diseases
       items:
       - name: Fibromyalgia
-      - slug: human_situations:health:rheumatic_diseases:Fibromyalgia
+        slug: human_situations:health:rheumatic_diseases:Fibromyalgia
     - name: Endocrine, nutritional or metabolic diseases
-    - slug: human_situations:health:endocrine_metabolic diseases
+      slug: human_situations:health:endocrine_metabolic diseases
       items:
       - name: Type 1 Diabetes
-      - slug: human_situations:health:endocrine_metabolic diseases:Type1_Diabetes
+        slug: human_situations:health:endocrine_metabolic diseases:Type1_Diabetes
       - name: Type 2 Diabetes
-      - slug: human_situations:health:endocrine_metabolic diseases:Type2_Diabetes
+        slug: human_situations:health:endocrine_metabolic diseases:Type2_Diabetes
   - name: Household
     slug: human_situations:household
     items:
     - name: Individuals
       slug: human_situations:household:individuals
-    - name: Lonliness
-      slug: human_situations:household:lonliness
+    - name: Loneliness
+      slug: human_situations:household:loneliness
     - name: Families
       slug: human_situations:household:families
       items:
@@ -1751,9 +1750,9 @@
     - name: Homeless
       slug: human_situations:housing:homeless
     - name: Public Housing Tenants
-    - slug: human_situations:housing:public_housing_tenants
-    - name: Recipients of housing assistance
-    - slug: human_situations:housing:recipients_of_housing_assistance
+      slug: human_situations:housing:public_housing_tenants
+    - name: Recipients of Housing Assistance
+      slug: human_situations:housing:recipients_of_housing_assistance
     - name: Runaways
       slug: human_situations:housing:runaways
     related:
@@ -1816,18 +1815,18 @@
         - name: Suicidal Thoughts
           slug: human_situations:mental_health:mental_conditions_diseases:suicidal_thoughts
         - name: PTSD
-        - slug: human_situations:mental_health:mental_conditions_diseases:ptsd
+          slug: human_situations:mental_health:mental_conditions_diseases:ptsd
         - name: Schizophrenia
-        - slug: human_situations:mental_health:mental_conditions_diseases:schizophrenia
+          slug: human_situations:mental_health:mental_conditions_diseases:schizophrenia
       - name: Treatment Phases
       - slug: human_situations:mental_health:treatment_phases
         items:
         - name: forced hospitalization
-        - slug: human_situations:mental_health:treatment_phases:forced hospitalization
+          slug: human_situations:mental_health:treatment_phases:forced hospitalization
         - name: Rehabilitation basket
-        - slug: human_situations:mental_health:treatment_phases:Rehabilitation basket
+          slug: human_situations:mental_health:treatment_phases:Rehabilitation basket
         - name: No recognition
-        - slug: human_situations:mental_health:treatment_phases:no_recognition
+          slug: human_situations:mental_health:treatment_phases:no_recognition
   - name: Role
     slug: human_situations:role
     items:
@@ -1924,8 +1923,8 @@
       slug: human_situations:sectors:ultra_orthodox
     - name: Bedouin
       slug: human_situations:sectors:bedouin
-    - name: Duruze
-      slug: human_situations:sectors:duruze
+    - name: Druze
+      slug: human_situations:sectors:druze
     - name: Ethiopians
       slug: human_situations:sectors:ethiopians
     - name: Arabs
@@ -1943,9 +1942,9 @@
     items:
     - name: Social Security 
       slug: human_situations:benefit_holders:social_security
-      itmes: 
-      - name: Disabillity
-        slug: human_situations:benefit_holders:social_security:disabillity
+      items: 
+      - name: Disability
+        slug: human_situations:benefit_holders:social_security:disability
       - name: Income Security
         slug: human_situations:benefit_holders:social_security:income_security
       - name: Nursing Care
@@ -1956,15 +1955,15 @@
         slug: human_situations:benefit_holders:social_security:ussr_veterans
       - name: Zion Prisoners 
         slug: human_situations:benefit_holders:social_security:zion_prisoners
-    - Name: Ministry of Defence 
-      slug: human_situations:benefit_holders:ministry_defence
+    - Name: Ministry of Defense 
+      slug: human_situations:benefit_holders:defense_ministry
       items: 
       - name: IDF injuries 
-        slug: human_situations:benefit_holders:ministry_defence:idf_injuries
-      - name: injured_while_on_duty
-        slug: slug: human_situations:benefit_holders:defence_ministry:injured_while_on_duty 
+        slug: human_situations:benefit_holders:defense_ministry:idf_injuries
+      - name: Injured while On Duty
+        slug: human_situations:benefit_holders:defense_ministry:injured_while_on_duty 
         related: human_situations:armed_forces:disabled:injured_while_on_duty 
-      - name: bereaved_families
-        slug: human_situations:armed_forces:disabled:bereaved_families 
+      - name: Bereaved Families
+        slug: human_situations:benefit_holders:defense_ministry:bereaved_families 
         related: human_situations:armed_forces:bereaved_families
     
