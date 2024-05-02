@@ -13,6 +13,7 @@
 קישורים:
 - [קובץ הטקסונומיה הנוכחי](taxonomy.yaml) בפורמט YAML
 - [לפירוט של הטקסונומיות בשפה העברית](TAXONOMIES.md).
+- [כיצד משנים את הטקסונומיה?](CONTRIBUTE.md).
 
 הפרויקט מבוסס בצורה משמעותית על עבודה שנעשתה בפרויקט Open Eligibility של Aunt Bertha - מצ״ב תיאור הפרויקט המקורי:
 </div>
@@ -22,8 +23,4 @@ The Open Eligibility Project is a collaborative for a better human service taxon
 Human Services Taxonomy by Aunt Bertha, Inc. is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
 http://openeligibility.org
-
-
-
-revision: 2024.04.07
 
