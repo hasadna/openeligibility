@@ -81,12 +81,16 @@ if __name__ == '__main__':
     else:
         new_version = latest_version
 
+    latest_version = version_tuple_to_text(latest_version)
     new_version = version_tuple_to_text(new_version)
     current_version = version_tuple_to_text(current_version)
 
     print(f'Expected version: {new_version}')
 
     assert new_version == current_version, f'Version should be {new_version} but is {current_version}'
+    if new_version == latest_version:
+        print('No changes detected. Exiting.')
+        exit(0)
 
     new_version_dir = VERSIONS_DIR / new_version
     new_version_dir.mkdir(exist_ok=True)

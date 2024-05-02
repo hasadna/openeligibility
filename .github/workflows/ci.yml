@@ -6,13 +6,13 @@ name: CI
 on:
   push:
     branches: [ main ]
+  pull_request:
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python
@@ -42,10 +42,10 @@ jobs:
     - name: Generate CSV
       run: |
         python -m tools.to_csv
-    - name: git identity
+    - name: Deploy
+      if: github.ref == 'refs/heads/main' && github.event_name == 'push'
       run: |
+        python tools/push_translations.py
         git config user.email "adam.kariv@gmail.com"
         git config user.name "Adam Kariv"
-    - name: Push artifacts
-      run: |
-        (git add taxonomy.yaml taxonomy.tx.yaml TAXONOMIES.md formats && git commit -m "Automatic update of artifacts" && git push) || true
+        (git add taxonomy.yaml taxonomy.tx.yaml TAXONOMIES.md formats versions && git commit -m "Automatic update of artifacts" && git push) || true
