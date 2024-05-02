@@ -1,0 +1,2478 @@
+- name:
+    source: Human Services
+    tx:
+      he: מענים חברתיים
+  slug: human_services
+  items:
+  - name:
+      source: Care
+      tx:
+        he: רווחה
+    slug: human_services:care
+    items:
+    - name:
+        source: Accessibility
+        tx:
+          he: פתרונות נגישות
+      slug: human_services:care:accessibility
+      items:
+      - name:
+          source: Translation
+          tx:
+            he: שפת סימנים
+        slug: human_services:care:accessibility:translation
+    - name:
+        source: Adoption & Foster Care
+        tx:
+          he: אימוץ ואומנה
+      slug: human_services:care:adoption_foster_care
+    - name:
+        source: Aid Center
+        tx:
+          he: מרכז סיוע
+      slug: human_services:care:aid_center
+    - name:
+        source: Daytime Care
+        tx:
+          he: מסגרת יום
+      slug: human_services:care:daytime_care
+    - name:
+        source: Early Childhood Intervention
+        tx:
+          he: אבחון התפתחותי
+      slug: human_services:care:early_childhood_intervention
+    - name:
+        source: Guidance
+        tx:
+          he: ליווי והדרכה
+      slug: human_services:care:guidance
+    - name:
+        source: Recovery
+        tx:
+          he: שיקום חברתי
+      slug: human_services:care:recovery
+    - name:
+        source: Risk Assessment
+        tx:
+          he: הערכת מסוכנות
+      slug: human_services:care:risk_assessment
+    - name:
+        source: Support Network
+        tx:
+          he: רשת תמיכה
+      slug: human_services:care:support_network
+    - name:
+        source: Help Hotline
+        tx:
+          he: קו סיוע
+      slug: human_services:care:help_hotline
+    - name:
+        source: Home Visiting
+        tx:
+          he: ביקורי בית
+      slug: human_services:care:home_visiting
+    - name:
+        source: In-Home Support
+        tx:
+          he: טיפול בבית
+      slug: human_services:care:in_home_support
+    - name:
+        source: Mentoring
+        tx:
+          he: מנטורינג
+      slug: human_services:care:mentoring
+    - name:
+        source: One-on-One Support
+        tx:
+          he: תמיכה פרטנית
+      slug: human_services:care:one_on_one_support
+    - name:
+        source: Spiritual Support
+        tx:
+          he: תמיכה רוחנית
+      slug: human_services:care:spiritual_support
+    - name:
+        source: Support Group
+        tx:
+          he: קבוצת תמיכה
+      slug: human_services:care:support_group
+      items:
+      - name:
+          source: Bereavement
+          tx:
+            he: תמיכה באבל
+        slug: human_services:care:support_group:bereavement
+      - name:
+          source: Parenting Education
+          tx:
+            he: הדרכת הורים
+        slug: human_services:care:support_group:parenting_education
+      - name:
+          source: Virtual Support
+          tx:
+            he: תמיכה וירטואלית
+        slug: human_services:care:support_group:virtual_support
+    - name:
+        source: Relief for Caregivers
+        tx:
+          he: סיוע לבני משפחה מטפלים
+      slug: human_services:care:relief_for_caregivers
+    - name:
+        source: Vacations
+        tx:
+          he: נופשונים
+      slug: human_services:care:vacations
+  - name:
+      source: Community Services
+      tx:
+        he: שירותים קהילתיים
+    slug: human_services:community_services
+    items:
+    - name:
+        source: Community Gardens
+        tx:
+          he: גינות קהילתיות
+      slug: human_services:community_services:community_gardens
+    - name:
+        source: Computer or Internet Access
+        tx:
+          he: מחשוב או גישה לאינטרנט
+      slug: human_services:community_services:computer_or_internet_access
+    - name:
+        source: Olim Support
+        tx:
+          he: מוקדי קליטה
+      slug: human_services:community_services:olim_support
+    - name:
+        source: Recreation
+        tx:
+          he: פעילויות פנאי
+      slug: human_services:community_services:recreation
+    - name:
+        source: Religious Services
+        tx:
+          he: שירותי דת
+      slug: human_services:community_services:religious_services
+      items:
+      - name:
+          source: Altenative Religious Services
+          tx:
+            he: שירותי דת נוספים
+        slug: human_services:community_services:religious_services:altenative_religious_services
+    - name:
+        source: Social Club
+        tx:
+          he: מועדון חברתי
+      slug: human_services:community_services:social_club
+    - name:
+        source: Summer Camps
+        tx:
+          he: קייטנות
+      slug: human_services:community_services:summer_camps
+  - name:
+      source: Education
+      tx:
+        he: חינוך
+    slug: human_services:education
+    items:
+    - name:
+        source: Afterschool Care
+        tx:
+          he: צהרונים
+      slug: human_services:education:afterschool_care
+    - name:
+        source: Nursery
+        tx:
+          he: פעוטון
+      slug: human_services:education:nursery
+    - name:
+        source: Respite Activities
+        tx:
+          he: פעילויות הפוגה
+      slug: human_services:education:respite_activities
+    - name:
+        source: Further Education
+        tx:
+          he: חינוך המשך
+      slug: human_services:education:further_education
+      items:
+      - name:
+          source: Engineering
+          tx:
+            he: הנדסאים
+        slug: human_services:education:further_education:engineering
+      - name:
+          source: Yeshiva and Kollel
+          tx:
+            he: ישיבה וכולל
+        slug: human_services:education:further_education:yeshiva_and_kollel
+    - name:
+        source: Academia
+        tx:
+          he: אקדמיה
+      slug: human_services:education:academia
+      items:
+      - name:
+          source: College Readiness
+          tx:
+            he: הכנה לאוניברסיטה
+        slug: human_services:education:academia:college_readiness
+    - name:
+        source: Special Education
+        tx:
+          he: חינוך מיוחד
+      slug: human_services:education:special_education
+    - name:
+        source: Integration in Education
+        tx:
+          he: שילוב בחינוך
+      slug: human_services:education:integration_in_education
+    - name:
+        source: High School Yeshiva
+        tx:
+          he: ישיבה תיכונית
+      slug: human_services:education:high_school_yeshiva
+    - name:
+        source: Ulpana
+        tx:
+          he: אולפנה
+      slug: human_services:education:ulpana
+    - name:
+        source: Youth Villages
+        tx:
+          he: כפר נוער
+      slug: human_services:education:youth_villages
+    - name:
+        source: Boarding School
+        tx:
+          he: פנימיה
+      slug: human_services:education:boarding_school
+    - name:
+        source: More Education
+        tx:
+          he: חינוך נוסף והעשרה
+      slug: human_services:education:more_education
+      items:
+      - name:
+          source: Alternative Education
+          tx:
+            he: חינוך אלטרנטיבי
+        slug: human_services:education:more_education:alternative_education
+      - name:
+          source: Civic Engagement
+          tx:
+            he: מעורבות חברתית
+        slug: human_services:education:more_education:civic_engagement
+      - name:
+          source: Army Readiness
+          tx:
+            he: הכנה לצבא
+        slug: human_services:education:more_education:army_readiness
+      - name:
+          source: National Service Readiness
+          tx:
+            he: הכנה לשירות לאומי
+        slug: human_services:education:more_education:national_service_readiness
+      - name:
+          source: English as a Second Language (ESL)
+          tx:
+            he: אולפנים
+        slug: human_services:education:more_education:english_as_a_second_language_esl
+      - name:
+          source: Enrichment Programs
+          tx:
+            he: תוכניות העשרה
+        slug: human_services:education:more_education:enrichment_programs
+      - name:
+          source: Environmental Education
+          tx:
+            he: חינוך סביבתי
+        slug: human_services:education:more_education:environmental_education
+      - name:
+          source: Foreign Languages
+          tx:
+            he: לימודי שפות
+        slug: human_services:education:more_education:foreign_languages
+      - name:
+          source: Prep - Mechina
+          tx:
+            he: מכינה
+        slug: human_services:education:more_education:prep_mechina
+        items:
+        - name:
+            source: Army Prep
+            tx:
+              he: מכינה צבאית
+          slug: human_services:education:more_education:prep_mechina:army_prep
+        - name:
+            source: University Prep
+            tx:
+              he: מכינה אוניברסיטאית
+          slug: human_services:education:more_education:prep_mechina:university_prep
+      - name:
+          source: Youth Development
+          tx:
+            he: קידום נוער
+        slug: human_services:education:more_education:youth_development
+      - name:
+          source: Youth Movement
+          tx:
+            he: תנועות נוער
+        slug: human_services:education:more_education:youth_movement
+    - name:
+        source: Leadership development
+        tx:
+          he: פיתוח מנהיגות
+      slug: human_services:education:leadership_development
+    - name:
+        source: Screening & Exams
+        tx:
+          he: מבחנים ומיונים
+      slug: human_services:education:screening_exams
+      items:
+      - name:
+          source: Bagrut/High-School Equivalency
+          tx:
+            he: הכנה לבחינות בגרות
+        slug: human_services:education:screening_exams:bagrut_high_school_equivalency
+    - name:
+        source: Skills & Training
+        tx:
+          he: הכשרות
+      slug: human_services:education:skills_training
+      items:
+      - name:
+          source: Basic Literacy
+          tx:
+            he: אוריינות
+        slug: human_services:education:skills_training:basic_literacy
+      - name:
+          source: Computer Class
+          tx:
+            he: אוריינות דיגיטלית
+        slug: human_services:education:skills_training:computer_class
+      - name:
+          source: Daily Life Skills
+          tx:
+            he: כישורי חיים
+        slug: human_services:education:skills_training:daily_life_skills
+  - name:
+      source: Emergency
+      tx:
+        he: חירום
+    slug: human_services:emergency
+    items:
+    - name:
+        source: Disaster Response
+        tx:
+          he: תגובה לאסונות
+      slug: human_services:emergency:disaster_response
+    - name:
+        source: Emergency Food
+        tx:
+          he: מזון בחירום
+      slug: human_services:emergency:emergency_food
+    - name:
+        source: Emergency Helpline
+        tx:
+          he: הכוונה בחירום
+      slug: human_services:emergency:emergency_helpline
+    - name:
+        source: Emergency Shelter
+        tx:
+          he: מקלט חירום
+      slug: human_services:emergency:emergency_shelter
+    - name:
+        source: Help Find Missing Persons
+        tx:
+          he: איתור נעדרים
+      slug: human_services:emergency:help_find_missing_persons
+    - name:
+        source: Financial Aid in Emergencies
+        tx:
+          he: סיוע כספי בחירום
+      slug: human_services:emergency:financial_aid_in_emergencies
+    - name:
+        source: Animal Assistance
+        tx:
+          he: סיוע לבעלי חיים בחירום
+      slug: human_services:emergency:animal_assistance
+    - name:
+        source: Emergency Mental Assistance
+        tx:
+          he: סיוע נפשי בחירום
+      slug: human_services:emergency:emergency_mental_assistance
+    - name:
+        source: Farming Assistance
+        tx:
+          he: סיוע בחקלאות
+      slug: human_services:emergency:farming_assistance
+    - name:
+        source: Fortification
+        tx:
+          he: מיגון
+      slug: human_services:emergency:fortification
+  - name:
+      source: Food
+      tx:
+        he: מזון
+    slug: human_services:food
+    items:
+    - name:
+        source: Food Delivery
+        tx:
+          he: סלי מזון
+      slug: human_services:food:food_delivery
+    - name:
+        source: Food Pantry
+        tx:
+          he: בתי תמחוי
+      slug: human_services:food:food_pantry
+    - name:
+        source: Nutrition
+        tx:
+          he: תזונה
+      slug: human_services:food:nutrition
+    - name:
+        source: Nutrition Education
+        tx:
+          he: חינוך תזונתי
+      slug: human_services:food:nutrition_education
+  - name:
+      source: Goods
+      tx:
+        he: ציוד וחפצים
+    slug: human_services:goods
+    items:
+    - name:
+        source: Baby Supplies
+        tx:
+          he: מוצרי תינוקות
+      slug: human_services:goods:baby_supplies
+    - name:
+        source: Clothing
+        tx:
+          he: בגדים
+      slug: human_services:goods:clothing
+    - name:
+        source: Home Goods
+        tx:
+          he: מוצרים לבית
+      slug: human_services:goods:home_goods
+    - name:
+        source: Toys & Gifts
+        tx:
+          he: צעצועים ומתנות
+      slug: human_services:goods:toys_gifts
+  - name:
+      source: Health
+      tx:
+        he: שירותי בריאות
+    slug: human_services:health
+    items:
+    - name:
+        source: Addiction & Recovery
+        tx:
+          he: גמילה מהתמכרות
+      slug: human_services:health:addiction_recovery
+      items:
+      - name:
+          source: Detox
+          tx:
+            he: גמילה
+        slug: human_services:health:addiction_recovery:detox
+      - name:
+          source: Medications for Addiction
+          tx:
+            he: תרופות להתמכרות
+        slug: human_services:health:addiction_recovery:medications_for_addiction
+      - name:
+          source: Substance Abuse Counseling
+          tx:
+            he: ייעוץ רגשי למתמכרים
+        slug: human_services:health:addiction_recovery:substance_abuse_counseling
+      - name:
+          source: Support groups
+          tx:
+            he: קבוצת תמיכה
+        slug: human_services:health:addiction_recovery:support_groups
+    - name:
+        source: Dental Care
+        tx:
+          he: טיפולי שיניים
+      slug: human_services:health:dental_care
+      items:
+      - name:
+          source: Dental Emergency Service
+          tx:
+            he: טיפול שיניים דחוף
+        slug: human_services:health:dental_care:dental_emergency_service
+    - name:
+        source: Help Find Healthcare
+        tx:
+          he: עזרה במציאת טיפול רפואי
+      slug: human_services:health:help_find_healthcare
+    - name:
+        source: End-of-Life Care
+        tx:
+          he: טיפול במצב סופני
+      slug: human_services:health:end_of_life_care
+    - name:
+        source: Health Education
+        tx:
+          he: חינוך בריאותי
+      slug: human_services:health:health_education
+    - name:
+        source: Mental Health Care
+        tx:
+          he: שירותי בריאות הנפש
+      slug: human_services:health:mental_health_care
+      items:
+      - name:
+          source: Anger Management
+          tx:
+            he: ניהול כעסים
+        slug: human_services:health:mental_health_care:anger_management
+      - name:
+          source: Counseling
+          tx:
+            he: טיפול רגשי (פסיכולוגי)
+        slug: human_services:health:mental_health_care:counseling
+        items:
+        - name:
+            source: Family Counseling
+            tx:
+              he: טיפול משפחתי
+          slug: human_services:health:mental_health_care:counseling:family_counseling
+        - name:
+            source: Group Therapy
+            tx:
+              he: טיפול קבוצתי
+          slug: human_services:health:mental_health_care:counseling:group_therapy
+        - name:
+            source: Individual Counseling
+            tx:
+              he: טיפול אישי
+          slug: human_services:health:mental_health_care:counseling:individual_counseling
+      - name:
+          source: Medications for Mental Health
+          tx:
+            he: טיפול תרופתי לבריאות הנפש
+        slug: human_services:health:mental_health_care:medications_for_mental_health
+      - name:
+          source: Mental Health Evaluation
+          tx:
+            he: הערכה פסיכיאטרית
+        slug: human_services:health:mental_health_care:mental_health_evaluation
+      - name:
+          source: Family Advice Center
+          tx:
+            he: מרכז ייעוץ למשפחות
+        slug: human_services:health:mental_health_care:family_advice_center
+      - name:
+          source: Hospitalization
+          tx:
+            he: אשפוז
+        slug: human_services:health:mental_health_care:hospitalization
+        items:
+        - name:
+            source: Forced Hospitalization
+            tx:
+              he: אשפוז כפוי
+          slug: human_services:health:mental_health_care:hospitalization:forced_hospitalization
+        - name:
+            source: Voluntary Hospitalization
+            tx:
+              he: אשפוז מרצון
+          slug: human_services:health:mental_health_care:hospitalization:voluntary_hospitalization
+        - name:
+            source: Hospitalization Alternative
+            tx:
+              he: חלופות אשפוז
+          slug: human_services:health:mental_health_care:hospitalization:hospitalization_alternative
+          items:
+          - name:
+              source: Balancing House
+              tx:
+                he: בית מאזן
+            slug: human_services:health:mental_health_care:hospitalization:hospitalization_alternative:balancing_house
+        - name:
+            source: Home Hospitalization
+            tx:
+              he: אשפוז ביתי
+          slug: human_services:health:mental_health_care:hospitalization:home_hospitalization
+    - name:
+        source: Medical Supplies
+        tx:
+          he: ציוד רפואי
+      slug: human_services:health:medical_supplies
+      items:
+      - name:
+          source: Assistive Technology
+          tx:
+            he: טכנולוגיה מסייעת
+        slug: human_services:health:medical_supplies:assistive_technology
+      - name:
+          source: Prosthesis
+          tx:
+            he: פרוטזות
+        slug: human_services:health:medical_supplies:prosthesis
+    - name:
+        source: Prevent & Treat
+        tx:
+          he: טיפול רפואי ומניעה
+      slug: human_services:health:prevent_treat
+      items:
+      - name:
+          source: Alternative Medicine
+          tx:
+            he: רפואה אלטרנטיבית
+        slug: human_services:health:prevent_treat:alternative_medicine
+      - name:
+          source: Checkup & Test
+          tx:
+            he: בדיקות
+        slug: human_services:health:prevent_treat:checkup_test
+        items:
+        - name:
+            source: Disease Screening
+            tx:
+              he: אבחון למחלות
+          slug: human_services:health:prevent_treat:checkup_test:disease_screening
+        - name:
+            source: Eye Tests
+            tx:
+              he: בדיקות ראייה
+          slug: human_services:health:prevent_treat:checkup_test:eye_tests
+        - name:
+            source: Genetic Testing
+            tx:
+              he: בדיקות גנטיות
+          slug: human_services:health:prevent_treat:checkup_test:genetic_testing
+        - name:
+            source: Hearing Tests
+            tx:
+              he: בדיקות שמיעה
+          slug: human_services:health:prevent_treat:checkup_test:hearing_tests
+        - name:
+            source: Pregnancy Test
+            tx:
+              he: בדיקת הריון
+          slug: human_services:health:prevent_treat:checkup_test:pregnancy_test
+      - name:
+          source: Hospital Treatment
+          tx:
+            he: טיפול בבית חולים
+        slug: human_services:health:prevent_treat:hospital_treatment
+      - name:
+          source: In-Home Support
+          tx:
+            he: סיוע בבית
+        slug: human_services:health:prevent_treat:in_home_support
+      - name:
+          source: Occupational Therapy
+          tx:
+            he: ריפוי בעיסוק
+        slug: human_services:health:prevent_treat:occupational_therapy
+      - name:
+          source: Pain Management
+          tx:
+            he: טיפול בכאב
+        slug: human_services:health:prevent_treat:pain_management
+      - name:
+          source: Physical Therapy
+          tx:
+            he: פיזיותרפיה
+        slug: human_services:health:prevent_treat:physical_therapy
+      - name:
+          source: Rehabilitation
+          tx:
+            he: שיקום רפואי
+        slug: human_services:health:prevent_treat:rehabilitation
+      - name:
+          source: Specialized Therapy
+          tx:
+            he: טיפול מיוחד
+        slug: human_services:health:prevent_treat:specialized_therapy
+      - name:
+          source: Speech Therapy
+          tx:
+            he: קלינאות תקשורת
+        slug: human_services:health:prevent_treat:speech_therapy
+      - name:
+          source: Vaccinations
+          tx:
+            he: חיסונים
+        slug: human_services:health:prevent_treat:vaccinations
+      - name:
+          source: Eye Care
+          tx:
+            he: טיפולי ראייה ואופתלמולוגיה
+        slug: human_services:health:prevent_treat:eye_care
+    - name:
+        source: Residential Treatment
+        tx:
+          he: מסגרות דיור טיפוליות
+      slug: human_services:health:residential_treatment
+    - name:
+        source: Personal Hygiene
+        tx:
+          he: היגיינה אישית
+      slug: human_services:health:personal_hygiene
+    - name:
+        source: Primary Care
+        tx:
+          he: טיפול ראשוני
+      slug: human_services:health:primary_care
+    - name:
+        source: Sexual & Reproductive Health
+        tx:
+          he: בריאות מינית
+      slug: human_services:health:sexual_reproductive_health
+      items:
+      - name:
+          source: Family Planning
+          tx:
+            he: תכנון משפחה
+        slug: human_services:health:sexual_reproductive_health:family_planning
+        items:
+        - name:
+            source: Birth Control
+            tx:
+              he: אמצעי מניעה
+          slug: human_services:health:sexual_reproductive_health:family_planning:birth_control
+        - name:
+            source: Fertility
+            tx:
+              he: טיפולי פוריות
+          slug: human_services:health:sexual_reproductive_health:family_planning:fertility
+        - name:
+            source: Sex Education
+            tx:
+              he: חינוך מיני
+          slug: human_services:health:sexual_reproductive_health:family_planning:sex_education
+      - name:
+          source: STD/STI Treatment & Prevention
+          tx:
+            he: טיפול ומניעה של מחלות מין
+        slug: human_services:health:sexual_reproductive_health:std_sti_treatment_prevention
+        items:
+        - name:
+            source: HIV Treatment
+            tx:
+              he: טיפול ב-HIV
+          slug: human_services:health:sexual_reproductive_health:std_sti_treatment_prevention:hiv_treatment
+      - name:
+          source: Women's Health
+          tx:
+            he: בריאות האישה
+        slug: human_services:health:sexual_reproductive_health:womens_health
+        items:
+        - name:
+            source: Maternity Care
+            tx:
+              he: טיפול ביולדת
+          slug: human_services:health:sexual_reproductive_health:womens_health:maternity_care
+        - name:
+            source: Postnatal Care
+            tx:
+              he: טיפול לאחר לידה
+          slug: human_services:health:sexual_reproductive_health:womens_health:postnatal_care
+    - name:
+        source: Skilled Nursing
+        tx:
+          he: טיפול על ידי אחות
+      slug: human_services:health:skilled_nursing
+    - name:
+        source: Support & Service Animals
+        tx:
+          he: חיות תמיכה
+      slug: human_services:health:support_service_animals
+  - name:
+      source: Housing
+      tx:
+        he: דיור
+    slug: human_services:housing
+    items:
+    - name:
+        source: Emergency Shelter
+        tx:
+          he: דיור ואירוח חירומי
+      slug: human_services:housing:emergency_shelter
+    - name:
+        source: Help Find Housing
+        tx:
+          he: עזרה במציאת דיור
+      slug: human_services:housing:help_find_housing
+    - name:
+        source: Maintenance & Repairs
+        tx:
+          he: תיקונים ושיפוצים
+      slug: human_services:housing:maintenance_repairs
+      items:
+      - name:
+          source: Disability Modifications
+          tx:
+            he: התאמות לבית
+        slug: human_services:housing:maintenance_repairs:disability_modifications
+      - name:
+          source: Small Repairs
+          tx:
+            he: תיקונים קטנים בבית
+        slug: human_services:housing:maintenance_repairs:small_repairs
+    - name:
+        source: Public Housing
+        tx:
+          he: דיור ציבורי
+      slug: human_services:housing:public_housing
+    - name:
+        source: Residential Housing
+        tx:
+          he: מסגרות דיור
+      slug: human_services:housing:residential_housing
+      items:
+      - name:
+          source: Long-Term Housing
+          tx:
+            he: דיור מוסדי
+        slug: human_services:housing:residential_housing:long_term_housing
+        items:
+        - name:
+            source: Assisted Living
+            tx:
+              he: דיור מוגן
+          slug: human_services:housing:residential_housing:long_term_housing:assisted_living
+        - name:
+            source: Hostel
+            tx:
+              he: הוסטל
+          slug: human_services:housing:residential_housing:long_term_housing:hostel
+        - name:
+            source: Independent Living
+            tx:
+              he: דיור עצמאי
+          slug: human_services:housing:residential_housing:long_term_housing:independent_living
+        - name:
+            source: Nursing Home
+            tx:
+              he: מוסד סיעודי
+          slug: human_services:housing:residential_housing:long_term_housing:nursing_home
+        - name:
+            source: Old Age Home
+            tx:
+              he: בית אבות
+          slug: human_services:housing:residential_housing:long_term_housing:old_age_home
+        - name:
+            source: Satellite Apartment
+            tx:
+              he: קהילה תומכת
+          slug: human_services:housing:residential_housing:long_term_housing:satellite_apartment
+        - name:
+            source: Group Flat
+            tx:
+              he: דירה קבוצתית
+          slug: human_services:housing:residential_housing:long_term_housing:group_flat
+    - name:
+        source: Short-Term Housing
+        tx:
+          he: דיור לטווח קצר
+      slug: human_services:housing:short_term_housing
+      items:
+      - name:
+          source: Transit Flats
+          tx:
+            he: דירות מעבר
+        slug: human_services:housing:short_term_housing:transit_flats
+      - name:
+          source: Shelters from Violence
+          tx:
+            he: מקלטים מאלימות
+        slug: human_services:housing:short_term_housing:shelters_from_violence
+  - name:
+      source: Legal
+      tx:
+        he: משפטי
+    slug: human_services:legal
+    items:
+    - name:
+        source: Advocacy & Legal Aid
+        tx:
+          he: סיוע משפטי
+      slug: human_services:legal:advocacy_legal_aid
+      items:
+      - name:
+          source: Citizenship & Immigration
+          tx:
+            he: תושבות ומעמד
+        slug: human_services:legal:advocacy_legal_aid:citizenship_immigration
+      - name:
+          source: Discrimination & Civil Rights
+          tx:
+            he: אפליה וזכויות אזרח
+        slug: human_services:legal:advocacy_legal_aid:discrimination_civil_rights
+      - name:
+          source: Guardianship
+          tx:
+            he: אפוטרופסות
+        slug: human_services:legal:advocacy_legal_aid:guardianship
+      - name:
+          source: Understand Government Programs
+          tx:
+            he: מיצוי זכויות
+        slug: human_services:legal:advocacy_legal_aid:understand_government_programs
+      - name:
+          source: Workplace Rights
+          tx:
+            he: זכויות עובדים
+        slug: human_services:legal:advocacy_legal_aid:workplace_rights
+      - name:
+          source: Financial difficulties
+          tx:
+            he: הוצאה לפועל וחדלות פרעון
+        slug: human_services:legal:advocacy_legal_aid:financial_difficulties
+    - name:
+        source: Mediation
+        tx:
+          he: גישור
+      slug: human_services:legal:mediation
+    - name:
+        source: Notary
+        tx:
+          he: נוטריון
+      slug: human_services:legal:notary
+    - name:
+        source: Representation
+        tx:
+          he: ייצוג משפטי
+      slug: human_services:legal:representation
+    - name:
+        source: Legal Translation & Interpretation
+        tx:
+          he: תרגום משפטי
+      slug: human_services:legal:legal_translation_interpretation
+  - name:
+      source: Transport
+      tx:
+        he: תחבורה
+    slug: human_services:transport
+    items:
+    - name:
+        source: Shuttle serivce
+        tx:
+          he: הסעות
+      slug: human_services:transport:shuttle_serivce
+  - name:
+      source: Money
+      tx:
+        he: סיוע כלכלי
+    slug: human_services:money
+    items:
+    - name:
+        source: Financial Assistance
+        tx:
+          he: סיוע כספי
+      slug: human_services:money:financial_assistance
+      items:
+      - name:
+          source: Gamach Money
+          tx:
+            he: גמ"ח כספי
+        slug: human_services:money:financial_assistance:gamach_money
+      - name:
+          source: Help Pay for Childcare
+          tx:
+            he: מימון מסגרות חינוכיות
+        slug: human_services:money:financial_assistance:help_pay_for_childcare
+      - name:
+          source: Help Pay for Food
+          tx:
+            he: תווי מזון
+        slug: human_services:money:financial_assistance:help_pay_for_food
+      - name:
+          source: Help Pay for Healthcare
+          tx:
+            he: גיוס כספי לשירותי בריאות
+        slug: human_services:money:financial_assistance:help_pay_for_healthcare
+      - name:
+          source: Help Pay for School
+          tx:
+            he: סיוע בעלויות חינוך
+        slug: human_services:money:financial_assistance:help_pay_for_school
+        items:
+        - name:
+            source: Books
+            tx:
+              he: ספרים
+          slug: human_services:money:financial_assistance:help_pay_for_school:books
+        - name:
+            source: Clothes for School
+            tx:
+              he: תלבושת אחידה
+          slug: human_services:money:financial_assistance:help_pay_for_school:clothes_for_school
+        - name:
+            source: Transportation for School
+            tx:
+              he: הסעות לבית הספר
+          slug: human_services:money:financial_assistance:help_pay_for_school:transportation_for_school
+        - name:
+            source: Supplies for School
+            tx:
+              he: ציוד לבית הספר
+          slug: human_services:money:financial_assistance:help_pay_for_school:supplies_for_school
+    - name:
+        source: Financial Education
+        tx:
+          he: חינוך פיננסי
+      slug: human_services:money:financial_education
+    - name:
+        source: Insurance
+        tx:
+          he: ביטוח
+      slug: human_services:money:insurance
+    - name:
+        source: Loans
+        tx:
+          he: הלוואות
+      slug: human_services:money:loans
+      items:
+      - name:
+          source: Business Loan
+          tx:
+            he: הלוואות לעסקים
+        slug: human_services:money:loans:business_loan
+      - name:
+          source: Personal Loan
+          tx:
+            he: הלוואות אישיות
+        slug: human_services:money:loans:personal_loan
+    - name:
+        source: Tax Preparation
+        tx:
+          he: סיוע בהגשת מיסים
+      slug: human_services:money:tax_preparation
+    - name:
+        source: Consumer Rights Protection
+        tx:
+          he: הגנת זכויות הצרכן
+      slug: human_services:money:consumer_rights_protection
+  - name:
+      source: Work
+      tx:
+        he: עבודה
+    slug: human_services:work
+    items:
+    - name:
+        source: Help Find Work
+        tx:
+          he: סיוע במציאת עבודה
+      slug: human_services:work:help_find_work
+    - name:
+        source: Skills & Training
+        tx:
+          he: הכשרה מקצועית
+      slug: human_services:work:skills_training
+      items:
+      - name:
+          source: Interview Training
+          tx:
+            he: הכנה לראיונות עבודה
+        slug: human_services:work:skills_training:interview_training
+      - name:
+          source: Resume Development
+          tx:
+            he: כתיבת קורות חיים
+        slug: human_services:work:skills_training:resume_development
+      - name:
+          source: Vocational Courses
+          tx:
+            he: קורסים מקצועיים
+        slug: human_services:work:skills_training:vocational_courses
+    - name:
+        source: Special Employment
+        tx:
+          he: תעסוקה מיוחדת
+      slug: human_services:work:special_employment
+      items:
+      - name:
+          source: Supported Employment
+          tx:
+            he: תעסוקה נתמכת
+        slug: human_services:work:special_employment:supported_employment
+      - name:
+          source: Protected Employment
+          tx:
+            he: תעסוקה מוגנת
+        slug: human_services:work:special_employment:protected_employment
+      - name:
+          source: Protected Factory
+          tx:
+            he: מפעל מוגן
+        slug: human_services:work:special_employment:protected_factory
+      - name:
+          source: Employment Club
+          tx:
+            he: מועדון תעסוקתי
+        slug: human_services:work:special_employment:employment_club
+  - name:
+      source: Culture and Sports
+      tx:
+        he: תרבות וספורט
+    slug: human_services:culture_and_sports
+    items:
+    - name:
+        source: Fine Art
+        tx:
+          he: אומנות
+      slug: human_services:culture_and_sports:fine_art
+    - name:
+        source: Cinema
+        tx:
+          he: קולנוע
+      slug: human_services:culture_and_sports:cinema
+    - name:
+        source: Commemoration
+        tx:
+          he: הנצחה
+      slug: human_services:culture_and_sports:commemoration
+    - name:
+        source: Exhibitions
+        tx:
+          he: תערוכות
+      slug: human_services:culture_and_sports:exhibitions
+    - name:
+        source: Choirs
+        tx:
+          he: מקהלות
+      slug: human_services:culture_and_sports:choirs
+    - name:
+        source: Dance
+        tx:
+          he: מחול
+      slug: human_services:culture_and_sports:dance
+    - name:
+        source: Digital Art
+        tx:
+          he: אומנות דיגיטלית
+      slug: human_services:culture_and_sports:digital_art
+    - name:
+        source: Documentation
+        tx:
+          he: תיעוד
+      slug: human_services:culture_and_sports:documentation
+    - name:
+        source: Exercise & Fitness
+        tx:
+          he: התעמלות וכושר
+      slug: human_services:culture_and_sports:exercise_fitness
+    - name:
+        source: Hasbara
+        tx:
+          he: הסברה
+      slug: human_services:culture_and_sports:hasbara
+    - name:
+        source: Jewish Culture
+        tx:
+          he: תרבות יהודית
+      slug: human_services:culture_and_sports:jewish_culture
+    - name:
+        source: Ethnic Culture
+        tx:
+          he: תרבות אתנית ועדתית
+      slug: human_services:culture_and_sports:ethnic_culture
+    - name:
+        source: Literature
+        tx:
+          he: ספרות
+      slug: human_services:culture_and_sports:literature
+    - name:
+        source: Music
+        tx:
+          he: מוזיקה
+      slug: human_services:culture_and_sports:music
+    - name:
+        source: Opera
+        tx:
+          he: אופרה
+      slug: human_services:culture_and_sports:opera
+    - name:
+        source: Orchestra
+        tx:
+          he: תזמורת
+      slug: human_services:culture_and_sports:orchestra
+    - name:
+        source: Sports
+        tx:
+          he: ספורט
+      slug: human_services:culture_and_sports:sports
+    - name:
+        source: Theatre
+        tx:
+          he: תיאטרון
+      slug: human_services:culture_and_sports:theatre
+    - name:
+        source: TV
+        tx:
+          he: טלוויזיה
+      slug: human_services:culture_and_sports:tv
+    - name:
+        source: Radio
+        tx:
+          he: רדיו
+      slug: human_services:culture_and_sports:radio
+- name:
+    source: Human Situations
+    tx:
+      he: מצבים
+  slug: human_situations
+  items:
+  - name:
+      source: Age Group
+      tx:
+        he: קבוצת גיל
+    slug: human_situations:age_group
+    items:
+    - name:
+        source: Infants
+        tx:
+          he: הגיל הרך
+      slug: human_situations:age_group:infants
+      description: 0-1 years old
+    - name:
+        source: Children
+        tx:
+          he: ילדים
+      slug: human_situations:age_group:children
+      description: 2-12 years old
+    - name:
+        source: Teens
+        tx:
+          he: נוער
+      slug: human_situations:age_group:teens
+      description: 13-19 years old
+    - name:
+        source: Young Adults
+        tx:
+          he: צעירים
+      slug: human_situations:age_group:young_adults
+      description: 20-30 years old
+    - name:
+        source: Adults
+        tx:
+          he: מבוגרים
+      slug: human_situations:age_group:adults
+      description: 31-54 years old
+    - name:
+        source: Seniors
+        tx:
+          he: אזרחים ותיקים
+      slug: human_situations:age_group:seniors
+      description: 55+ years old
+  - name:
+      source: Armed Forces
+      tx:
+        he: אנשי צבא וביטחון
+    slug: human_situations:armed_forces
+    items:
+    - name:
+        source: Active Duty
+        tx:
+          he: משרתי צבא סדיר
+      slug: human_situations:armed_forces:active_duty
+    - name:
+        source: Bereaved families
+        tx:
+          he: משפחות שכולות
+      slug: human_situations:armed_forces:bereaved_families
+    - name:
+        source: Ex-soldiers
+        tx:
+          he: חיילים משוחררים
+      slug: human_situations:armed_forces:ex_soldiers
+    - name:
+        source: Injured while on Duty
+        tx:
+          he: נכי צה"ל
+      slug: human_situations:armed_forces:injured_while_on_duty
+    - name:
+        source: Professional Duty
+        tx:
+          he: משרתי צבא קבע
+      slug: human_situations:armed_forces:professional_duty
+    - name:
+        source: Reserves
+        tx:
+          he: משרתי מילואים
+      slug: human_situations:armed_forces:reserves
+    - name:
+        source: Veterans
+        tx:
+          he: גמלאי צה"ל
+      slug: human_situations:armed_forces:veterans
+    - name:
+        source: Police
+        tx:
+          he: כוחות המשטרה
+      slug: human_situations:armed_forces:police
+  - name:
+      source: Benefit Holders
+      tx:
+        he: מקבלי קצבאות והטבות
+    slug: human_situations:benefit_holders
+    items:
+    - name:
+        source: Social Security
+        tx:
+          he: מוכרות מביטוח לאומי
+      slug: human_situations:benefit_holders:social_security
+      items:
+      - name:
+          source: Bereaved Families of Terror
+          tx:
+            he: משפחות חללי פעולות האיבה
+        slug: human_situations:benefit_holders:social_security:bereaved_families_of_terror
+      - name:
+          source: Disability
+          tx:
+            he: מקבלי קצבאת נכות
+        slug: human_situations:benefit_holders:social_security:disability
+      - name:
+          source: Income Security
+          tx:
+            he: מקבלי הבטחת הכנסה
+        slug: human_situations:benefit_holders:social_security:income_security
+      - name:
+          source: Nursing Care
+          tx:
+            he: מקבלי קבצת סיעוד
+        slug: human_situations:benefit_holders:social_security:nursing_care
+      - name:
+          source: Righteous Among the Nations
+          tx:
+            he: חסידי אומות עולם
+        slug: human_situations:benefit_holders:social_security:righteous_among_the_nations
+      - name:
+          source: USSR Veterans
+          tx:
+            he: וטרנים
+        slug: human_situations:benefit_holders:social_security:ussr_veterans
+      - name:
+          source: Zion Prisoners
+          tx:
+            he: אסירי ציון
+        slug: human_situations:benefit_holders:social_security:zion_prisoners
+      - name:
+          source: Terror Victims
+          tx:
+            he: נפגעי פעולות איבה
+        slug: human_situations:benefit_holders:social_security:terror_victims
+    - name:
+        source: Holocaust Survivors
+        tx:
+          he: ניצולי שואה
+      slug: human_situations:benefit_holders:holocaust_survivors
+    - name:
+        source: Ministry of Health
+        tx:
+          he: מוכרי משרד הבריאות
+      slug: human_situations:benefit_holders:ministry_of_health
+      items:
+      - name:
+          source: Rehabilitation Basket
+          tx:
+            he: זכאי סל שיקום
+        slug: human_situations:benefit_holders:ministry_of_health:rehabilitation_basket
+  - name:
+      source: Citizenship
+      tx:
+        he: אזרחות ותושבות
+    slug: human_situations:citizenship
+    items:
+    - name:
+        source: Citizens
+        tx:
+          he: בעלי אזרחות ישראלית
+      slug: human_situations:citizenship:citizens
+    - name:
+        source: Foreign Residents
+        tx:
+          he: תושבי חוץ
+      slug: human_situations:citizenship:foreign_residents
+    - name:
+        source: Foreign Workers
+        tx:
+          he: מהגרי עבודה
+      slug: human_situations:citizenship:foreign_workers
+      items:
+      - name:
+          source: Agriculture and Building
+          tx:
+            he: מהגרי חקלאות ובנייה
+        slug: human_situations:citizenship:foreign_workers:agriculture_and_building
+      - name:
+          source: Nursing
+          tx:
+            he: מהגרים עובדים סיעודיים
+        slug: human_situations:citizenship:foreign_workers:nursing
+      - name:
+          source: Experts
+          tx:
+            he: בעלי ויזת מומחה
+        slug: human_situations:citizenship:foreign_workers:experts
+    - name:
+        source: Olim
+        tx:
+          he: עולים
+      slug: human_situations:citizenship:olim
+    - name:
+        source: Palestinians Workers
+        tx:
+          he: עובדים פלסטינים
+      slug: human_situations:citizenship:palestinians_workers
+    - name:
+        source: Refugees
+        tx:
+          he: פליטים
+      slug: human_situations:citizenship:refugees
+    - name:
+        source: Residents
+        tx:
+          he: תושבים (ללא אזרחות)
+      slug: human_situations:citizenship:residents
+    - name:
+        source: Statusless
+        tx:
+          he: מחוסרי מעמד
+      slug: human_situations:citizenship:statusless
+    - name:
+        source: Returned residents
+        tx:
+          he: תושבים חוזרים
+      slug: human_situations:citizenship:returned_residents
+  - name:
+      source: Community
+      tx:
+        he: קהילה
+    slug: human_situations:community
+    items:
+    - name:
+        source: Activists
+        tx:
+          he: פעילים חברתיים
+      slug: human_situations:community:activists
+    - name:
+        source: Leaders
+        tx:
+          he: מנהיגות קהילתית
+      slug: human_situations:community:leaders
+  - name:
+      source: Criminal History
+      tx:
+        he: פשיעה
+    slug: human_situations:criminal_history
+    items:
+    - name:
+        source: Ex-Offenders
+        tx:
+          he: בעלי עבר פלילי
+      slug: human_situations:criminal_history:ex_offenders
+    - name:
+        source: Ex-Offenders youth
+        tx:
+          he: נוער בעל עבר פלילי
+      slug: human_situations:criminal_history:ex_offenders_youth
+    - name:
+        source: Prisoners
+        tx:
+          he: אסירים
+      slug: human_situations:criminal_history:prisoners
+    - name:
+        source: Ex prisoners
+        tx:
+          he: אסירים לשעבר
+      slug: human_situations:criminal_history:ex_prisoners
+    - name:
+        source: Sexual Perpetrators
+        tx:
+          he: עברייני מין
+      slug: human_situations:criminal_history:sexual_perpetrators
+    - name:
+        source: Violent tendencies
+        tx:
+          he: עברייני אלימות במשפחה
+      slug: human_situations:criminal_history:violent_tendencies
+  - name:
+      source: Deprivation
+      tx:
+        he: רקע אישי
+    slug: human_situations:deprivation
+    items:
+    - name:
+        source: At risk
+        tx:
+          he: בסיכון
+      slug: human_situations:deprivation:at_risk
+      items:
+      - name:
+          source: At Risk Children
+          tx:
+            he: ילדים בסיכון
+        slug: human_situations:deprivation:at_risk:at_risk_children
+      - name:
+          source: At Risk Teens
+          tx:
+            he: נערים בסיכון
+        slug: human_situations:deprivation:at_risk:at_risk_teens
+      - name:
+          source: At Risk Teen Girls
+          tx:
+            he: נערות וצעירות בסיכון
+        slug: human_situations:deprivation:at_risk:at_risk_teen_girls
+      - name:
+          source: At Risk Youth
+          tx:
+            he: צעירים בסיכון
+        slug: human_situations:deprivation:at_risk:at_risk_youth
+    - name:
+        source: Geographical Periphery
+        tx:
+          he: אנשים מפריפריה גיאוגרפית
+      slug: human_situations:deprivation:geographical_periphery
+    - name:
+        source: Social Periphary
+        tx:
+          he: אנשים מפריפריה חברתית
+      slug: human_situations:deprivation:social_periphary
+    - name:
+        source: Low-Income
+        tx:
+          he: בעלי הכנסה נמוכה
+      slug: human_situations:deprivation:low_income
+  - name:
+      source: Disability
+      tx:
+        he: מוגבלויות
+    slug: human_situations:disability
+    items:
+    - name:
+        source: Autistic spectrum
+        tx:
+          he: אוטיסטים
+      slug: human_situations:disability:autistic_spectrum
+    - name:
+        source: Deaf or Hard of Hearing
+        tx:
+          he: בעלי חרשות או שמיעה מוגבלת
+      slug: human_situations:disability:deaf_or_hard_of_hearing
+    - name:
+        source: Intellectual Disability
+        tx:
+          he: בעלי מוגבלות שכלית והתפתחותית
+      slug: human_situations:disability:intellectual_disability
+    - name:
+        source: Learning Disability
+        tx:
+          he: בעלי קשיי למידה
+      slug: human_situations:disability:learning_disability
+      items:
+      - name:
+          source: ADD/ADHD
+          tx:
+            he: בעלי הפרעות קשב וריכוז
+        slug: human_situations:disability:learning_disability:add_adhd
+    - name:
+        source: Mental Illness
+        tx:
+          he: מתמודדי נפש
+      slug: human_situations:disability:mental_illness
+    - name:
+        source: Limited Mobility
+        tx:
+          he: בעלי מוגבלות בתנועה
+      slug: human_situations:disability:limited_mobility
+    - name:
+        source: Physical Disability
+        tx:
+          he: אנשים עם מוגבלות פיזית
+      slug: human_situations:disability:physical_disability
+    - name:
+        source: Visual Impairment
+        tx:
+          he: בעלי ליקוי ראיה
+      slug: human_situations:disability:visual_impairment
+    - name:
+        source: Mentally Debilitated
+        tx:
+          he: תשושי נפש
+      slug: human_situations:disability:mentally_debilitated
+    - name:
+        source: In Need for Nursing Care
+        tx:
+          he: אנשים במצב סיעודי
+      slug: human_situations:disability:in_need_for_nursing_care
+  - name:
+      source: Education
+      tx:
+        he: חינוך
+    slug: human_situations:education
+    items:
+    - name:
+        source: Dropouts
+        tx:
+          he: נשירה ממערכת החינוך
+      slug: human_situations:education:dropouts
+    - name:
+        source: Gifted Students
+        tx:
+          he: ילדים מחוננים
+      slug: human_situations:education:gifted_students
+    - name:
+        source: Special needs
+        tx:
+          he: בעלי צרכים מיוחדים
+      slug: human_situations:education:special_needs
+    - name:
+        source: Students
+        tx:
+          he: סטודנטים
+      slug: human_situations:education:students
+    - name:
+        source: Yeshiva students
+        tx:
+          he: תלמידי ישיבה
+      slug: human_situations:education:yeshiva_students
+    - name:
+        source: Struggling students
+        tx:
+          he: תלמידים מתקשים
+      slug: human_situations:education:struggling_students
+    - name:
+        source: Learning disorders
+        tx:
+          he: בעלי הפרעות למידה
+      slug: human_situations:education:learning_disorders
+  - name:
+      source: Employment
+      tx:
+        he: תעסוקה
+    slug: human_situations:employment
+    items:
+    - name:
+        source: Employed
+        tx:
+          he: שכירים
+      slug: human_situations:employment:employed
+    - name:
+        source: Retirement
+        tx:
+          he: אנשים בגמלאות
+      slug: human_situations:employment:retirement
+    - name:
+        source: Self-employed
+        tx:
+          he: עצמאים
+      slug: human_situations:employment:self_employed
+    - name:
+        source: Unemployed
+        tx:
+          he: מובטלים
+      slug: human_situations:employment:unemployed
+    - name:
+        source: Farmers
+        tx:
+          he: חקלאים
+      slug: human_situations:employment:farmers
+  - name:
+      source: Gender
+      tx:
+        he: מגדר
+    slug: human_situations:gender
+    items:
+    - name:
+        source: Women
+        tx:
+          he: נשים בלבד
+      slug: human_situations:gender:women
+    - name:
+        source: Men
+        tx:
+          he: גברים בלבד
+      slug: human_situations:gender:men
+    - name:
+        source: Transgender
+        tx:
+          he: טרנסג'נדר
+      slug: human_situations:gender:transgender
+    - name:
+        source: Non-binary
+        tx:
+          he: לא בינאריים
+      slug: human_situations:gender:non_binary
+  - name:
+      source: Health
+      tx:
+        he: מצבים בריאותיים
+    slug: human_situations:health
+    items:
+    - name:
+        source: Allergies
+        tx:
+          he: אלרגיות
+      slug: human_situations:health:allergies
+    - name:
+        source: Chronic Illness
+        tx:
+          he: חולים כרוניים
+      slug: human_situations:health:chronic_illness
+    - name:
+        source: Endocrine, nutritional or metabolic diseases
+        tx:
+          he: חולי מחלות אנדוקריניות
+      slug: human_situations:health:endocrine_nutritional_or_metabolic_diseases
+      items:
+      - name:
+          source: Type 1 Diabetes
+          tx:
+            he: חולי סכרת נעורים
+        slug: human_situations:health:endocrine_nutritional_or_metabolic_diseases:type_1_diabetes
+      - name:
+          source: Type 2 Diabetes
+          tx:
+            he: חולי סכרת
+        slug: human_situations:health:endocrine_nutritional_or_metabolic_diseases:type_2_diabetes
+    - name:
+        source: Fertility
+        tx:
+          he: בעיות פוריות
+      slug: human_situations:health:fertility
+    - name:
+        source: Genetic Disorder
+        tx:
+          he: חולים במחלה גנטית
+      slug: human_situations:health:genetic_disorder
+    - name:
+        source: Heart diseases
+        tx:
+          he: חולי מחלות לב
+      slug: human_situations:health:heart_diseases
+    - name:
+        source: Infectious Disease
+        tx:
+          he: מחלה מדבקת
+      slug: human_situations:health:infectious_disease
+      items:
+      - name:
+          source: HIV/AIDS
+          tx:
+            he: חולי איידס
+        slug: human_situations:health:infectious_disease:hiv_aids
+      - name:
+          source: COVID19
+          tx:
+            he: חולי קורונה
+        slug: human_situations:health:infectious_disease:covid19
+    - name:
+        source: Treatment Phases
+        tx:
+          he: שלבי טיפול
+      slug: human_situations:health:treatment_phases
+      items:
+      - name:
+          source: Hospitalized
+          tx:
+            he: מאושפזים
+        slug: human_situations:health:treatment_phases:hospitalized
+      - name:
+          source: Post-Treatment
+          tx:
+            he: אנשים בשיקום
+        slug: human_situations:health:treatment_phases:post_treatment
+      - name:
+          source: Facing End of Life
+          tx:
+            he: אנשים על ערש דווי
+        slug: human_situations:health:treatment_phases:facing_end_of_life
+      - name:
+          source: Home Care
+          tx:
+            he: אשפוז ביתי
+        slug: human_situations:health:treatment_phases:home_care
+      - name:
+          source: Nursing Care
+          tx:
+            he: אנשים במצב סיעודי
+        slug: human_situations:health:treatment_phases:nursing_care
+    - name:
+        source: Neoplasm
+        tx:
+          he: חולי סרטן
+      slug: human_situations:health:neoplasm
+    - name:
+        source: Nervous System Disease
+        tx:
+          he: חולי מחלות של מערכת העצבים והמח
+      slug: human_situations:health:nervous_system_disease
+      items:
+      - name:
+          source: Stroke
+          tx:
+            he: אנשים שעברו אירוע מוחי
+        slug: human_situations:health:nervous_system_disease:stroke
+      - name:
+          source: Epilepsy
+          tx:
+            he: חולי אפיליפסיה
+        slug: human_situations:health:nervous_system_disease:epilepsy
+      - name:
+          source: Alzheimer disease
+          tx:
+            he: חולי אלצהיימר ומחלות דמנציה
+        slug: human_situations:health:nervous_system_disease:alzheimer_disease
+      - name:
+          source: Parkinson's
+          tx:
+            he: חולי פרקינסון
+        slug: human_situations:health:nervous_system_disease:parkinsons
+    - name:
+        source: Neurodevelopmental Disorders
+        tx:
+          he: אנשים עם לקות נוירו-התפתחותית
+      slug: human_situations:health:neurodevelopmental_disorders
+    - name:
+        source: Overweight
+        tx:
+          he: עודף משקל
+      slug: human_situations:health:overweight
+    - name:
+        source: Pregnant
+        tx:
+          he: הריון
+      slug: human_situations:health:pregnant
+    - name:
+        source: Rare diseases
+        tx:
+          he: חולי מחלות יתומות
+      slug: human_situations:health:rare_diseases
+      items:
+      - name:
+          source: Familial Dysautonomia
+          tx:
+            he: אנשים עם דיסאוטונומיה משפחתית (FD)
+        slug: human_situations:health:rare_diseases:familial_dysautonomia
+    - name:
+        source: Respiratory System Disease
+        tx:
+          he: חולי מחלות דרכי נשימה
+      slug: human_situations:health:respiratory_system_disease
+      items:
+      - name:
+          source: Asthma
+          tx:
+            he: חולי אסתמה
+        slug: human_situations:health:respiratory_system_disease:asthma
+    - name:
+        source: Rheumatic Diseases
+        tx:
+          he: חולי מחלות ראומטיות
+      slug: human_situations:health:rheumatic_diseases
+      items:
+      - name:
+          source: Fibromyalgia
+          tx:
+            he: חולי פיברומיאלגיה
+        slug: human_situations:health:rheumatic_diseases:fibromyalgia
+  - name:
+      source: Household
+      tx:
+        he: מצב משפחתי
+    slug: human_situations:household
+    items:
+    - name:
+        source: Families
+        tx:
+          he: משפחות
+      slug: human_situations:household:families
+      items:
+      - name:
+          source: Adoption
+          tx:
+            he: משפחות מאמצות
+        slug: human_situations:household:families:adoption
+      - name:
+          source: Divorced
+          tx:
+            he: גירושים
+        slug: human_situations:household:families:divorced
+      - name:
+          source: Fathers
+          tx:
+            he: אבות
+        slug: human_situations:household:families:fathers
+      - name:
+          source: Foster Caregivers
+          tx:
+            he: הורים אומנים
+        slug: human_situations:household:families:foster_caregivers
+      - name:
+          source: Mothers
+          tx:
+            he: אמהות
+        slug: human_situations:household:families:mothers
+      - name:
+          source: Parents
+          tx:
+            he: הורים
+        slug: human_situations:household:families:parents
+      - name:
+          source: Single Parent
+          tx:
+            he: משפחות שבראשן הורה עצמאי
+        slug: human_situations:household:families:single_parent
+      - name:
+          source: Surrogacy
+          tx:
+            he: פונדקאות
+        slug: human_situations:household:families:surrogacy
+      - name:
+          source: Siblings
+          tx:
+            he: אחים
+        slug: human_situations:household:families:siblings
+    - name:
+        source: Individuals
+        tx:
+          he: רווקים
+      slug: human_situations:household:individuals
+    - name:
+        source: Loneliness
+        tx:
+          he: בודדים
+      slug: human_situations:household:loneliness
+    - name:
+        source: Orphans
+        tx:
+          he: יתומים
+      slug: human_situations:household:orphans
+  - name:
+      source: Housing
+      tx:
+        he: דיור
+    slug: human_situations:housing
+    items:
+    - name:
+        source: Home Owners
+        tx:
+          he: בעלי בתים
+      slug: human_situations:housing:home_owners
+    - name:
+        source: Home Renters
+        tx:
+          he: שוכרי דירות
+      slug: human_situations:housing:home_renters
+    - name:
+        source: Homeless
+        tx:
+          he: מחוסרי בית
+      slug: human_situations:housing:homeless
+    - name:
+        source: Public Housing Tenants
+        tx:
+          he: דיירי דיור ציבורי
+      slug: human_situations:housing:public_housing_tenants
+    - name:
+        source: Recipients of Housing Assistance
+        tx:
+          he: מקבלי סיוע בדיור
+      slug: human_situations:housing:recipients_of_housing_assistance
+    - name:
+        source: Runaways
+        tx:
+          he: נוער רחוב
+      slug: human_situations:housing:runaways
+  - name:
+      source: Language
+      tx:
+        he: שפות
+    slug: human_situations:language
+    items:
+    - name:
+        source: Arabic Speaking
+        tx:
+          he: דוברי ערבית
+      slug: human_situations:language:arabic_speaking
+    - name:
+        source: Amharic Speaking
+        tx:
+          he: דוברי אמהרית
+      slug: human_situations:language:amharic_speaking
+    - name:
+        source: English Speaking
+        tx:
+          he: דוברי אנגלית
+      slug: human_situations:language:english_speaking
+    - name:
+        source: French Speaking
+        tx:
+          he: דוברי צרפתית
+      slug: human_situations:language:french_speaking
+    - name:
+        source: Hebrew Speaking
+        tx:
+          he: דוברי עברית
+      slug: human_situations:language:hebrew_speaking
+    - name:
+        source: Russian Speaking
+        tx:
+          he: דוברי רוסית
+      slug: human_situations:language:russian_speaking
+    - name:
+        source: Sign Language
+        tx:
+          he: דוברי שפת הסימנים
+      slug: human_situations:language:sign_language
+    - name:
+        source: Spanish Speaking
+        tx:
+          he: דוברי ספרדית
+      slug: human_situations:language:spanish_speaking
+  - name:
+      source: Life Events
+      tx:
+        he: אירועי חיים
+    slug: human_situations:life_events
+    items:
+    - name:
+        source: Bar/Bat Mitzva
+        tx:
+          he: בר/בת מצווה
+      slug: human_situations:life_events:bar_bat_mitzva
+    - name:
+        source: Birth
+        tx:
+          he: לידה
+      slug: human_situations:life_events:birth
+    - name:
+        source: Death
+        tx:
+          he: מוות
+      slug: human_situations:life_events:death
+    - name:
+        source: Divorce
+        tx:
+          he: גירושין
+      slug: human_situations:life_events:divorce
+    - name:
+        source: Grief
+        tx:
+          he: אבל
+      slug: human_situations:life_events:grief
+    - name:
+        source: Wedding
+        tx:
+          he: חתונה
+      slug: human_situations:life_events:wedding
+  - name:
+      source: Mental Health
+      tx:
+        he: בריאות הנפש
+    slug: human_situations:mental_health
+    items:
+    - name:
+        source: Mental conditions and diseases
+        tx:
+          he: מצבים נפשיים ומחלות
+      slug: human_situations:mental_health:mental_conditions_and_diseases
+      items:
+      - name:
+          source: Anxiety
+          tx:
+            he: בעלי הפרעות חרדה
+        slug: human_situations:mental_health:mental_conditions_and_diseases:anxiety
+      - name:
+          source: Bipolar
+          tx:
+            he: בעלי הפרעה קוטבית
+        slug: human_situations:mental_health:mental_conditions_and_diseases:bipolar
+      - name:
+          source: Brain Injury
+          tx:
+            he: בעלי פציעת ראש
+        slug: human_situations:mental_health:mental_conditions_and_diseases:brain_injury
+      - name:
+          source: Depression
+          tx:
+            he: אנשים עם דיכאון
+        slug: human_situations:mental_health:mental_conditions_and_diseases:depression
+      - name:
+          source: Eating Disorder
+          tx:
+            he: בעלי הפרעות אכילה
+        slug: human_situations:mental_health:mental_conditions_and_diseases:eating_disorder
+      - name:
+          source: PTSD
+          tx:
+            he: בעלי הפרעת דחק פוסט טראומתית (PTSD)
+        slug: human_situations:mental_health:mental_conditions_and_diseases:ptsd
+      - name:
+          source: Schizophrenia
+          tx:
+            he: חולי סכיזופרניה
+        slug: human_situations:mental_health:mental_conditions_and_diseases:schizophrenia
+      - name:
+          source: Suicidal Thoughts
+          tx:
+            he: בעלי מחשבות אובדניות
+        slug: human_situations:mental_health:mental_conditions_and_diseases:suicidal_thoughts
+  - name:
+      source: Role
+      tx:
+        he: תפקיד
+    slug: human_situations:role
+    items:
+    - name:
+        source: Caregivers
+        tx:
+          he: מטפלים
+      slug: human_situations:role:caregivers
+    - name:
+        source: Dependents
+        tx:
+          he: תלויים
+      slug: human_situations:role:dependents
+    - name:
+        source: Family Caregivers
+        tx:
+          he: בני משפחה מטפלים
+      slug: human_situations:role:family_caregivers
+    - name:
+        source: Spouses
+        tx:
+          he: בני ובנות זוג
+      slug: human_situations:role:spouses
+  - name:
+      source: Sectors
+      tx:
+        he: סקטורים בחברה
+    slug: human_situations:sectors
+    items:
+    - name:
+        source: Arabs
+        tx:
+          he: החברה הערבית
+      slug: human_situations:sectors:arabs
+    - name:
+        source: Bedouin
+        tx:
+          he: החברה הבדואית
+      slug: human_situations:sectors:bedouin
+    - name:
+        source: Christians
+        tx:
+          he: נוצרים
+      slug: human_situations:sectors:christians
+    - name:
+        source: Circassians
+        tx:
+          he: החברה הצ'רקסית
+      slug: human_situations:sectors:circassians
+    - name:
+        source: Druze
+        tx:
+          he: החברה הדרוזית
+      slug: human_situations:sectors:druze
+    - name:
+        source: Jews
+        tx:
+          he: יהודים
+      slug: human_situations:sectors:jews
+      items:
+      - name:
+          source: Ultra Orthodox
+          tx:
+            he: חרדים
+        slug: human_situations:sectors:jews:ultra_orthodox
+      - name:
+          source: Secular
+          tx:
+            he: חילונים
+        slug: human_situations:sectors:jews:secular
+      - name:
+          source: Dati Leumi
+          tx:
+            he: דתיים לאומיים
+        slug: human_situations:sectors:jews:dati_leumi
+      - name:
+          source: Hozer Betshuva
+          tx:
+            he: חוזרים בתשובה
+        slug: human_situations:sectors:jews:hozer_betshuva
+      - name:
+          source: Yotze Beshela
+          tx:
+            he: יוצאים בשאלה
+        slug: human_situations:sectors:jews:yotze_beshela
+      - name:
+          source: Progressives
+          tx:
+            he: יהדות מתקדמת
+        slug: human_situations:sectors:jews:progressives
+      - name:
+          source: Ethiopians
+          tx:
+            he: יוצאי אתיופיה
+        slug: human_situations:sectors:jews:ethiopians
+    - name:
+        source: Muslims
+        tx:
+          he: מוסלמים
+      slug: human_situations:sectors:muslims
+  - name:
+      source: Sexuality
+      tx:
+        he: נטייה מינית
+    slug: human_situations:sexuality
+    items:
+    - name:
+        source: LGBTQ
+        tx:
+          he: להט"ב
+      slug: human_situations:sexuality:lgbtq
+  - name:
+      source: Substance Dependency
+      tx:
+        he: התמכרויות
+    slug: human_situations:substance_dependency
+    items:
+    - name:
+        source: Alcohol Dependency
+        tx:
+          he: מכורים לאלכוהול
+      slug: human_situations:substance_dependency:alcohol_dependency
+    - name:
+        source: Gambling
+        tx:
+          he: מכורים להימורים
+      slug: human_situations:substance_dependency:gambling
+    - name:
+        source: Opioid Dependency
+        tx:
+          he: מכורים לסמים
+      slug: human_situations:substance_dependency:opioid_dependency
+    - name:
+        source: Smoker
+        tx:
+          he: מעשנים
+      slug: human_situations:substance_dependency:smoker
+    - name:
+        source: Painkillers
+        tx:
+          he: משככי כאבים
+      slug: human_situations:substance_dependency:painkillers
+  - name:
+      source: Survivors
+      tx:
+        he: ניצולים ונפגעים
+    slug: human_situations:survivors
+    items:
+    - name:
+        source: Abuse or Neglect Survivors
+        tx:
+          he: נפגעי התעללות או הזנחה
+      slug: human_situations:survivors:abuse_or_neglect_survivors
+    - name:
+        source: Burn Survivors
+        tx:
+          he: נפגעי כוויה
+      slug: human_situations:survivors:burn_survivors
+    - name:
+        source: Car Accidents Survivors
+        tx:
+          he: נפגעי תאונות דרכים
+      slug: human_situations:survivors:car_accidents_survivors
+    - name:
+        source: Violence Survivors
+        tx:
+          he: נפגעי אלימות
+      slug: human_situations:survivors:violence_survivors
+      items:
+      - name:
+          source: Domestic Violence Survivors
+          tx:
+            he: נפגעות אלימות במשפחה
+        slug: human_situations:survivors:violence_survivors:domestic_violence_survivors
+      - name:
+          source: Sexual Assault Survivors
+          tx:
+            he: נפגעות אלימות מינית
+        slug: human_situations:survivors:violence_survivors:sexual_assault_survivors
+    - name:
+        source: Human Trafficking Survivors
+        tx:
+          he: נפגעי סחר בבני אדם
+      slug: human_situations:survivors:human_trafficking_survivors
+    - name:
+        source: Natural Disaster Survivors
+        tx:
+          he: נפגעי אסון טבע
+      slug: human_situations:survivors:natural_disaster_survivors
+    - name:
+        source: Prostition Survivors
+        tx:
+          he: קורבנות זנות
+      slug: human_situations:survivors:prostition_survivors
+    - name:
+        source: Trauma Survivors
+        tx:
+          he: נפגעי טראומה
+      slug: human_situations:survivors:trauma_survivors
+    - name:
+        source: Offence Survivors
+        tx:
+          he: נפגעי עבירה
+      slug: human_situations:survivors:offence_survivors
+    - name:
+        source: Evacuees
+        tx:
+          he: מפונים
+      slug: human_situations:survivors:evacuees
+    - name:
+        source: Wounded
+        tx:
+          he: פצועים
+      slug: human_situations:survivors:wounded
+    - name:
+        source: Families of Missing Persons
+        tx:
+          he: משפחות של נעדרים
+      slug: human_situations:survivors:families_of_missing_persons
+    - name:
+        source: Victims of Terror
+        tx:
+          he: נפגעי פעולות איבה
+      slug: human_situations:survivors:victims_of_terror
+  - name:
+      source: Urgency
+      tx:
+        he: דחיפות
+    slug: human_situations:urgency
+    items:
+    - name:
+        source: Emergency
+        tx:
+          he: מצב חירום
+      slug: human_situations:urgency:emergency
+    - name:
+        source: In Crisis
+        tx:
+          he: אנשים במשבר נפשי
+      slug: human_situations:urgency:in_crisis
+- name:
+    source: Human Places
+    tx:
+      he: מקומות
+  slug: human_places
+  items:
+  - name:
+      source: Community
+      tx:
+        he: קהילה
+    slug: human_places:community
+    items:
+    - name:
+        source: Community Center
+        tx:
+          he: מתנ"ס
+      slug: human_places:community:community_center
+    - name:
+        source: Library
+        tx:
+          he: ספרייה
+      slug: human_places:community:library
+  - name:
+      source: Religion
+      tx:
+        he: דת
+    slug: human_places:religion
+    items:
+    - name:
+        source: Synagogue
+        tx:
+          he: בית כנסת
+      slug: human_places:religion:synagogue
+    - name:
+        source: Mosque
+        tx:
+          he: מסגד
+      slug: human_places:religion:mosque
+    - name:
+        source: Church
+        tx:
+          he: כנסייה
+      slug: human_places:religion:church
+  - name:
+      source: Education
+      tx:
+        he: חינוך
+    slug: human_places:education
+    items:
+    - name:
+        source: Kindergarten
+        tx:
+          he: גן ילדים
+      slug: human_places:education:kindergarten
+    - name:
+        source: Primary School
+        tx:
+          he: בית ספר יסודי
+      slug: human_places:education:primary_school
+    - name:
+        source: Middle School
+        tx:
+          he: חטיבת ביניים
+      slug: human_places:education:middle_school
+    - name:
+        source: High School
+        tx:
+          he: בית ספר תיכון
+      slug: human_places:education:high_school
+  - name:
+      source: Health
+      tx:
+        he: בריאות
+    slug: human_places:health
+    items:
+    - name:
+        source: Clinic
+        tx:
+          he: מרפאה
+      slug: human_places:health:clinic
+      items:
+      - name:
+          source: Mental Health Clinic
+          tx:
+            he: מרפאת בריאות הנפש
+        slug: human_places:health:clinic:mental_health_clinic
+      - name:
+          source: GP Clinic
+          tx:
+            he: קופת חולים
+        slug: human_places:health:clinic:gp_clinic
+      - name:
+          source: Well Baby Clinic
+          tx:
+            he: טיפת חלב
+        slug: human_places:health:clinic:well_baby_clinic
+    - name:
+        source: Hospital
+        tx:
+          he: בית חולים
+      slug: human_places:health:hospital
+  - name:
+      source: Government Service Point
+      tx:
+        he: עמדת שירות ממשלתי
+    slug: human_places:government_service_point
+  - name:
+      source: Welfare Bureau
+      tx:
+        he: מחלקה לשירותים חברתיים
+    slug: human_places:welfare_bureau

@@ -15,10 +15,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Python 3.9
+    - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.9
+        python-version: "3.12"
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -27,11 +27,15 @@ jobs:
       run: |
         python tools/process_simple.py
         head taxonomy.yaml
+        cp taxonomy.tx.yaml taxonomy.orig.yaml
     - name: Translate
       env:
         TRANSIFEX_TOKEN: ${{secrets.TRANSIFEX_TOKEN}}
       run: |
         python tools/translate.py
+    - name: Test Version
+      run: |
+        python tools/test_version.py
     - name: Generate MD
       run: |
         python tools/to_markdown.py
