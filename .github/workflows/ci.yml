@@ -52,4 +52,4 @@ jobs:
         python tools/push_translations.py
         git config user.email "adam.kariv@gmail.com"
         git config user.name "Adam Kariv"
-        (git add taxonomy.yaml taxonomy.tx.yaml TAXONOMIES.md formats versions && git commit -m "Automatic update of artifacts" && git push -f) || true
+        (git add taxonomy.yaml taxonomy.tx.yaml TAXONOMIES.md formats versions && git commit -m "Automatic update of artifacts" && git push) || true

@@ -1,1 +1,1 @@
-# Fill here any new renames you want to do, in the format slug->new_slug
+# Fill here any new renames you want to do-> in the format slug->new_slug

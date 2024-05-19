@@ -21,6 +21,8 @@
           tx:
             he: סיוע בתרגום
         slug: human_services:care:accessibility:translation
+        pk: 2a4f7e5aefc84046ab65c80fd52c5597
+      pk: 03641c81fdeb4a8fbf54c110e636c8e6
     - name:
         source: Adoption & Foster Care
         tx:
@@ -32,26 +34,32 @@
           tx:
             he: ייעוץ לתהליך האימוץ
         slug: human_services:care:adoption_foster_care:adoption_counseling
+        pk: 05a0e81af053441cb72b8c45c55f05aa
       - name:
           source: Adoption & Foster Placement
           tx:
             he: השמת ילדים לאימוץ ואומנה
         slug: human_services:care:adoption_foster_care:adoption_foster_placement
+        pk: d2396174dc0d4d56b42847bdb5a52482
       - name:
           source: Adoption Planning
           tx:
             he: תכנון אימוץ
         slug: human_services:care:adoption_foster_care:adoption_planning
+        pk: 4020ac30b6b84ed997d132443ad40314
       - name:
           source: Post-Adoption Support
           tx:
             he: תמיכה במשפחות מאמצות
         slug: human_services:care:adoption_foster_care:post_adoption_support
+        pk: 95f41b815a6447b9af626d7a7b2248b7
+      pk: 836f8bd9a748426297b420fc8d28944c
     - name:
         source: Aid Center
         tx:
           he: מרכזי סיוע
       slug: human_services:care:aid_center
+      pk: 5da6d1df92c84682be049b021f1476c1
     - name:
         source: Childcare
         tx:
@@ -63,36 +71,44 @@
           tx:
             he: עזרה במציאת מסגרות לילדים
         slug: human_services:care:childcare:help_find_childcare
+        pk: 83299bf031644f6896f42e6654457f7e
       - name:
           source: Afterschool Care
           tx:
             he: צהרונים
         slug: human_services:care:childcare:afterschool_care
+        pk: 7ee4724911fc497cae1ccf8c34368f08
+      pk: 140ae4fa612d459e8f9fba2d324da472
     - name:
         source: Daytime Care
         tx:
           he: מסגרת יום
       slug: human_services:care:daytime_care
+      pk: b2c64e8ecbb94639b1d9f066cfa4e114
     - name:
         source: Early Childhood Intervention
         tx:
           he: אבחונים
       slug: human_services:care:early_childhood_intervention
+      pk: 9c41b2d1b04b471a95191bebec07abea
     - name:
         source: Guidance
         tx:
           he: ליווי והדרכה
       slug: human_services:care:guidance
+      pk: 062e1c0031274f6ba8353b27ddc8e6fd
     - name:
         source: Eligibility Checks
         tx:
           he: בדיקת קצבאות לקצבה
       slug: human_services:care:eligibility_checks
+      pk: 1c6d1e6731984ab797b756c305b24777
     - name:
         source: Residential Care
         tx:
           he: מסגרת טיפולית ביתית
       slug: human_services:care:residential_care
+      pk: 9dd7e5431b2847448a433ff7c8764a60
     - name:
         source: Recovery
         tx:
@@ -104,11 +120,14 @@
           tx:
             he: נופשונים
         slug: human_services:care:recovery:vacations
+        pk: 12fb98ca433a4c79a0ddb60baea7dec2
       - name:
           source: Vocational Rehabilitation
           tx:
             he: תעסוקה שיקומית
         slug: human_services:care:recovery:vocational_rehabilitation
+        pk: 35610d21780247efa2797db03b813689
+      pk: bb16a7a3816b4cffadda0891d41953da
     - name:
         source: Support Network
         tx:
@@ -120,31 +139,37 @@
           tx:
             he: קווי סיוע
         slug: human_services:care:support_network:help_hotlines
+        pk: 025903a1dc4e49d19a4fcf554102f64f
       - name:
           source: Home Visiting
           tx:
             he: ביקורי בית
         slug: human_services:care:support_network:home_visiting
+        pk: 95d2b0e03a1d4220ac0e2a8b41b2da79
       - name:
           source: In-Home Support
           tx:
             he: סיוע בבית
         slug: human_services:care:support_network:in_home_support
+        pk: 369be136764f499483ef46dbb4f3237e
       - name:
           source: Mentoring
           tx:
             he: מנטורינג
         slug: human_services:care:support_network:mentoring
+        pk: fb01d22b197d47ea9e3e2258875e76aa
       - name:
           source: One-on-One Support
           tx:
             he: חונכות
         slug: human_services:care:support_network:one_on_one_support
+        pk: 4df4f15de448484491b58ea261db4e29
       - name:
           source: Spiritual Support
           tx:
             he: תמיכה רוחנית
         slug: human_services:care:support_network:spiritual_support
+        pk: e88ff6d1af874b99a7eefd09d5626e7f
       - name:
           source: Support Group
           tx:
@@ -156,31 +181,40 @@
             tx:
               he: תמיכה בהתמכרות
           slug: human_services:care:support_network:support_group:12_step
+          pk: 90d696d4118840018e4eb3f9c55f9c01
         - name:
             source: Bereavement
             tx:
               he: סיוע בתקופת האבל
           slug: human_services:care:support_network:support_group:bereavement
+          pk: 4ca68c7add944b81a5b3b372710825cf
         - name:
             source: Parenting Education
             tx:
               he: הדרכת הורים
           slug: human_services:care:support_network:support_group:parenting_education
+          pk: c53666f1eccf4fe7bd6cd6bf64dc6c01
         - name:
             source: Virtual Support
             tx:
               he: תמיכה וירטואלית
           slug: human_services:care:support_network:support_group:virtual_support
+          pk: 396ac5b3b1e24d9e8d87975aa9f38f57
+        pk: 6ef6fc77327445d2a563af5109007216
+      pk: d8d4b2bf91d247fba339380524de1db3
     - name:
         source: Relief for Caregivers
         tx:
           he: הקלה למטפלים
       slug: human_services:care:relief_for_caregivers
+      pk: d6930341a4ed47f6a7debe8044597246
     - name:
         source: Crime prevention
         tx:
           he: מניעת פשיעה
       slug: human_services:care:crime_prevention
+      pk: 7b26f1d1e7994c7ba9f45b0e9b9e90ae
+    pk: 906ec1b06b434b66a181f4a717277a5b
   - name:
       source: Community Services
       tx:
@@ -192,36 +226,43 @@
         tx:
           he: גינות קהילתיות
       slug: human_services:community_services:community_gardens
+      pk: 63ce2e2b376d424dbecaa83dddaffec1
     - name:
         source: Computer or Internet Access
         tx:
           he: מחשוב או גישה לאינטרנט
       slug: human_services:community_services:computer_or_internet_access
+      pk: e8a758e97b284caea5d07cad2b96f7c7
     - name:
         source: Community center
         tx:
           he: מרכזים קהילתיים
       slug: human_services:community_services:community_center
+      pk: 41a490a17e0f422ebef3faa38607d154
     - name:
         source: Libraries
         tx:
           he: ספריות
       slug: human_services:community_services:libraries
+      pk: c18c3e4bc8024b91b8c76fca07daaa46
     - name:
         source: Helplines
         tx:
           he: קווי סיוע טלפוניים
       slug: human_services:community_services:helplines
+      pk: 3e1900c8b98d47209b36fe8b1fd00fe2
     - name:
         source: Olim Support
         tx:
           he: קליטת עולים
       slug: human_services:community_services:olim_support
+      pk: 60fa94bc94b248c2b9fcf952cd2c3b91
     - name:
         source: Recreation
         tx:
           he: פעילויות פנאי
       slug: human_services:community_services:recreation
+      pk: 21d3fd367d524de981dab769caaf8cce
     - name:
         source: Religious Services
         tx:
@@ -233,31 +274,39 @@
           tx:
             he: בתי כנסת
         slug: human_services:community_services:religious_services:synagogues
+        pk: 023cf17e8ed34d5e83dfdea5412a5f2b
       - name:
           source: Mosques
           tx:
             he: מסגדים
         slug: human_services:community_services:religious_services:mosques
+        pk: 199800df30374ce08f2ac40e7e4ae4bf
       - name:
           source: Churches
           tx:
             he: כנסיות
         slug: human_services:community_services:religious_services:churches
+        pk: bfdbca9cc5c048ec8a3b415d744caf90
       - name:
           source: Altenative Religious Services
           tx:
             he: שירותי דת נוספים
         slug: human_services:community_services:religious_services:altenative_religious_services
+        pk: 0276e1d6386f46589c46a7be4ac17b16
+      pk: 4f4e16301b72442e9c3c7f17f2834598
     - name:
         source: Social Club
         tx:
           he: מועדון חברתי
       slug: human_services:community_services:social_club
+      pk: b59630c16c014240a74afd33897afef9
     - name:
         source: Summer Camps
         tx:
           he: קייטנות
       slug: human_services:community_services:summer_camps
+      pk: f931daff44c141258f050632621164a8
+    pk: 9059d9026ff44bd3b433e49a60987704
   - name:
       source: Education
       tx:
@@ -269,11 +318,13 @@
         tx:
           he: עזרה במציאת בית ספר
       slug: human_services:education:help_find_school
+      pk: 8a52a1162c97492d8d6d4d0d998b7833
     - name:
         source: Respite Activities
         tx:
           he: פעילויות הפוגה
       slug: human_services:education:respite_activities
+      pk: c9532d49d0ec4fd9a2b1375dee6c756d
     - name:
         source: Education Institutions
         tx:
@@ -285,21 +336,25 @@
           tx:
             he: מעונות לילדים
         slug: human_services:education:education_institutions:nursery
+        pk: 1e1f22d89f514115b6019e1eba3d1ddc
       - name:
           source: Kindergarten
           tx:
             he: גני ילדים
         slug: human_services:education:education_institutions:kindergarten
+        pk: f7773d2d6cc54be0900e79c009720815
       - name:
           source: Primary School
           tx:
             he: בתי ספר יסודיים
         slug: human_services:education:education_institutions:primary_school
+        pk: ffc1ee7639734ab1a51a45c81de3a1d5
       - name:
           source: Middle School
           tx:
             he: חטיבות ביניים
         slug: human_services:education:education_institutions:middle_school
+        pk: b8377bba3a6f44fba646e1d791b5e9fb
       - name:
           source: High School
           tx:
@@ -311,16 +366,20 @@
             tx:
               he: ישיבות תיכוניות
           slug: human_services:education:education_institutions:high_school:high_school_yeshiva
+          pk: 5941da7fe0f54284a538b10610e125e6
         - name:
             source: Ulpana
             tx:
               he: אולפנות
           slug: human_services:education:education_institutions:high_school:ulpana
+          pk: 824ec8992bfd427eaabb5043c72e3a9b
         - name:
             source: Youth Villages
             tx:
               he: כפרי נוער ופנימיות
           slug: human_services:education:education_institutions:high_school:youth_villages
+          pk: 5cbaebc41298401f9a1ccf5ed1bd4b9d
+        pk: b8706ca663a04eeda49f85ccc7803dea
       - name:
           source: Further Education
           tx:
@@ -332,21 +391,27 @@
             tx:
               he: הנדסאים
           slug: human_services:education:education_institutions:further_education:engineering
+          pk: 7f16125b674c4efe969a2c3b648ccffc
         - name:
             source: Yeshiva and Kollel
             tx:
               he: ישיבות וכוללים
           slug: human_services:education:education_institutions:further_education:yeshiva_and_kollel
+          pk: 432a34d8f9484efcb3701c8a5d88dd91
+        pk: fe0e0af9815b46d58980023cf3cbe9e5
       - name:
           source: Academia
           tx:
             he: אקדמיה
         slug: human_services:education:education_institutions:academia
+        pk: 600435be22fe483aae911d45d039abef
+      pk: 77e6350fc541497bbe258cc6c679e37d
     - name:
         source: Special Education
         tx:
           he: חינוך מיוחד ושילוב בחינוך
       slug: human_services:education:special_education
+      pk: 0f32ec861841474cb8ddc482355028ed
     - name:
         source: More Education
         tx:
@@ -358,46 +423,55 @@
           tx:
             he: חינוך אלטרנטיבי
         slug: human_services:education:more_education:alternative_education
+        pk: aea6e6df5be448648125d68e5a706b78
       - name:
           source: Civic Engagement
           tx:
             he: מעורבות חברתית
         slug: human_services:education:more_education:civic_engagement
+        pk: 50ea07fd05a54c1881ac54b15bc96063
       - name:
           source: College Readiness
           tx:
             he: הכנה לאוניברסיטה
         slug: human_services:education:more_education:college_readiness
+        pk: c8b8b00bd9bd4255afd8e3ef73d5c3d9
       - name:
           source: Army Readiness
           tx:
             he: הכנה לצבא
         slug: human_services:education:more_education:army_readiness
+        pk: 0fdfcdeed3ac4192a9367fa57ac08bec
       - name:
           source: National Service Readiness
           tx:
             he: הכנה לשירות לאומי
         slug: human_services:education:more_education:national_service_readiness
+        pk: fe4de3c9aa824beb8aab71e53f559547
       - name:
           source: English as a Second Language (ESL)
           tx:
             he: אולפנים
         slug: human_services:education:more_education:english_as_a_second_language_esl
+        pk: 6c3415e708054f999fa8f629a2b4a718
       - name:
           source: Enrichment Programs
           tx:
             he: תוכניות העשרה
         slug: human_services:education:more_education:enrichment_programs
+        pk: 16841663329843fe824a3dbaf3c0ed1c
       - name:
           source: Environmental Education
           tx:
             he: חינוך סביבתי
         slug: human_services:education:more_education:environmental_education
+        pk: 47191ef949534c37937bf1cff455ffa4
       - name:
           source: Foreign Languages
           tx:
             he: לימודי שפות
         slug: human_services:education:more_education:foreign_languages
+        pk: a4fd2121db8645db881701bf29a56b2e
       - name:
           source: Prep - Mechina
           tx:
@@ -409,31 +483,39 @@
             tx:
               he: מכינה צבאית
           slug: human_services:education:more_education:prep_mechina:army_prep
+          pk: 6ec6ddc52c6448a98b0959ff49e81a4b
         - name:
             source: University Prep
             tx:
               he: מכינה אוניברסיטאית
           slug: human_services:education:more_education:prep_mechina:university_prep
+          pk: b33b92b2d8e141febd0f890a90ff168d
+        pk: 2499d0d51bf64f5ca9949b9fce550b1c
       - name:
           source: Tutoring
           tx:
             he: חינוך פרטני
         slug: human_services:education:more_education:tutoring
+        pk: 6781db0e18754993886023ee97a36198
       - name:
           source: Youth Development
           tx:
             he: טיפוח נוער
         slug: human_services:education:more_education:youth_development
+        pk: 0b5a5ba13c57417681c97ffbee001ad8
       - name:
           source: Youth Movement
           tx:
             he: תנועות נוער
         slug: human_services:education:more_education:youth_movement
+        pk: a8b97521f84147c195c1a230c09e0597
+      pk: 86bd71e96fec4b96b5957627489a9de7
     - name:
         source: Leadership development
         tx:
           he: פיתוח מנהיגות
       slug: human_services:education:leadership_development
+      pk: 44f021baced8473fb25a609458bcd9d4
     - name:
         source: Screening & Exams
         tx:
@@ -445,6 +527,8 @@
           tx:
             he: הכנה לבחינות בגרות
         slug: human_services:education:screening_exams:bagrut_high_school_equivalency
+        pk: f72e672163884e409574c7b3ccbfb32d
+      pk: a2d3df875d824826a755e022ed223e10
     - name:
         source: Skills & Training
         tx:
@@ -456,16 +540,21 @@
           tx:
             he: אוריינות בסיסית
         slug: human_services:education:skills_training:basic_literacy
+        pk: f4de0bf45d0a4a1b86e89ba588795030
       - name:
           source: Computer Class
           tx:
             he: אוריינות דיגיטלית
         slug: human_services:education:skills_training:computer_class
+        pk: 8fef7f8bbff14eaa9d920dd4fe0a8098
       - name:
           source: Daily Life Skills
           tx:
             he: הדרכות כישורי חיים
         slug: human_services:education:skills_training:daily_life_skills
+        pk: 20d0c720f7584129aee7d7272955930f
+      pk: 046e65c4c3814bc0bf01fb43645cba19
+    pk: 7fb7d2fe3fbb45ccbfe8ae0c9687416e
   - name:
       source: Emergency
       tx:
@@ -477,51 +566,62 @@
         tx:
           he: תגובה לאסונות
       slug: human_services:emergency:disaster_response
+      pk: a0d9399d80be463fac8b52b28296a660
     - name:
         source: Emergency Food
         tx:
           he: מזון בחירום
       slug: human_services:emergency:emergency_food
+      pk: 2c32640097f7415dab5218754f1a03f1
     - name:
         source: Emergency Helplines
         tx:
           he: הכוונה בחירום
       slug: human_services:emergency:emergency_helplines
+      pk: efd7385ff5934c1280ad47ba040ac015
     - name:
         source: Emergency Shelter
         tx:
           he: מקלט חירום
       slug: human_services:emergency:emergency_shelter
+      pk: 2ad96dd162174cbc806d3d248b85190e
     - name:
         source: Help Find Missing Persons
         tx:
           he: איתור נעדרים
       slug: human_services:emergency:help_find_missing_persons
+      pk: d3af17b88d744635885a364a2d14107a
     - name:
         source: Financial Aid in Emergencies
         tx:
           he: סיוע כספי בחירום
       slug: human_services:emergency:financial_aid_in_emergencies
+      pk: 8bdb542d9cdb412f8588b1fcaec55516
     - name:
         source: Animal Assistance
         tx:
           he: סיוע לבעלי חיים בחירום
       slug: human_services:emergency:animal_assistance
+      pk: 3983f6859ec245d188cf0be8e983af3e
     - name:
         source: Emergency Mental Assistance
         tx:
           he: סיוע נפשי בחירום
       slug: human_services:emergency:emergency_mental_assistance
+      pk: 6ba3ce66b8754dd391bd874bcbb887c6
     - name:
         source: Farming Assistance
         tx:
           he: סיוע בחקלאות
       slug: human_services:emergency:farming_assistance
+      pk: b38dc38250bc435a9081cc810549bcc1
     - name:
         source: Fortification
         tx:
           he: מיגון
       slug: human_services:emergency:fortification
+      pk: b32b7bbd1d32453fad26e4863dc51389
+    pk: 95652c3092854de6bab13685a9f9214b
   - name:
       source: Food
       tx:
@@ -533,21 +633,26 @@
         tx:
           he: סלי מזון לנזקקים
       slug: human_services:food:food_delivery
+      pk: 251f41c6c9924061bcff491aef7fd594
     - name:
         source: Food Pantry
         tx:
           he: בתי תמחוי
       slug: human_services:food:food_pantry
+      pk: a94576f1c0eb477cb2c050d3c5f04349
     - name:
         source: Nutrition
         tx:
           he: תזונה
       slug: human_services:food:nutrition
+      pk: e62b1c7ce07c472abf4e6a5114a87d29
     - name:
         source: Nutrition Education
         tx:
           he: חינוך תזונתי
       slug: human_services:food:nutrition_education
+      pk: 408a2ea2e1974e3eaae6301e862077ac
+    pk: a8fab74eae1a4d0e970ae88892c29200
   - name:
       source: Goods
       tx:
@@ -559,21 +664,26 @@
         tx:
           he: מוצרי תינוקות
       slug: human_services:goods:baby_supplies
+      pk: 2fd83528a7414cb8a5eb86240c916dbb
     - name:
         source: Clothing
         tx:
           he: בגדים
       slug: human_services:goods:clothing
+      pk: 5eab9f51239645538e750a9f8ed7f2a9
     - name:
         source: Home Goods
         tx:
           he: מוצרים לבית
       slug: human_services:goods:home_goods
+      pk: 7a5c1b7ac5b54f909002814f9de10296
     - name:
         source: Toys & Gifts
         tx:
           he: צעצועים ומתנות
       slug: human_services:goods:toys_gifts
+      pk: 93b72ee8116d4b448941e7d7a0c51bdb
+    pk: ccd3243e5e544a1dbc2d377395162b0b
   - name:
       source: Health
       tx:
@@ -591,26 +701,32 @@
           tx:
             he: גמילה ראשונית
         slug: human_services:health:addiction_recovery:detox
+        pk: af7513263d79498fb132c6dc812ee0dc
       - name:
           source: Drug Testing
           tx:
             he: בדיקות סמים
         slug: human_services:health:addiction_recovery:drug_testing
+        pk: 339f70e05c0a461e8ff1a596cb90e13b
       - name:
           source: Medications for Addiction
           tx:
             he: תרופות להתמכרות
         slug: human_services:health:addiction_recovery:medications_for_addiction
+        pk: fe82da551db1444ea8d1d68f8b6eb311
       - name:
           source: Substance Abuse Counseling
           tx:
             he: ייעוץ רגשי למתמכרים
         slug: human_services:health:addiction_recovery:substance_abuse_counseling
+        pk: adf5674aa2a14680ac0fd6d0af97e020
+      pk: 7f43557f61904ed6b8a211594ff0809f
     - name:
         source: Dental Care
         tx:
           he: טיפולי שיניים
       slug: human_services:health:dental_care
+      pk: 5beb2ba850f346789793232701830cc9
     - name:
         source: Emergency Services
         tx:
@@ -622,26 +738,32 @@
           tx:
             he: שירותי חירום פסיכיאטריים
         slug: human_services:health:emergency_services:psychiatric_emergency_services
+        pk: dfb5880ea1de4ed2a704930b4d3505ad
       - name:
           source: Dental Emergency Service
           tx:
             he: טיפולי שיניים בחירום
         slug: human_services:health:emergency_services:dental_emergency_service
+        pk: 66a499a276584e9aac603f591e629868
+      pk: d6029907389c499db01bc001f98c964c
     - name:
         source: Help Find Healthcare
         tx:
           he: עזרה במציאת טיפול רפואי
       slug: human_services:health:help_find_healthcare
+      pk: e8fd067905e149f4b5aeef6dbfdc1c2b
     - name:
         source: End-of-Life Care
         tx:
           he: טיפול במצב סופני
       slug: human_services:health:end_of_life_care
+      pk: e6bdd7ceb2fa430d90e804eb70d22fe6
     - name:
         source: Health Education
         tx:
           he: חינוך לבריאות
       slug: human_services:health:health_education
+      pk: ef39da1a3fc04bec94c38f69b43afca9
     - name:
         source: Mental Health Care
         tx:
@@ -653,6 +775,7 @@
           tx:
             he: ניהול כעסים
         slug: human_services:health:mental_health_care:anger_management
+        pk: 81ea67ad7f3e41ce9b1304c43427161f
       - name:
           source: Counseling
           tx:
@@ -664,26 +787,32 @@
             tx:
               he: טיפול משפחתי
           slug: human_services:health:mental_health_care:counseling:family_counseling
+          pk: 7a1ddf4eaa614dd1b5dce5503240139b
         - name:
             source: Group Therapy
             tx:
               he: טיפול קבוצתי
           slug: human_services:health:mental_health_care:counseling:group_therapy
+          pk: 54011708e2004fbd9617e091fded92dd
         - name:
             source: Individual Counseling
             tx:
               he: טיפול אישי
           slug: human_services:health:mental_health_care:counseling:individual_counseling
+          pk: 4fc7992ca74145c6bb8f1c171d220e62
+        pk: 0015b86fe68b4b0eb3d6841c1636f8f2
       - name:
           source: Medications for Mental Health
           tx:
             he: טיפול תרופתי לבריאות הנפש
         slug: human_services:health:mental_health_care:medications_for_mental_health
+        pk: ea623e999caf4348bc06d19af54d3169
       - name:
           source: Mental Health Evaluation
           tx:
             he: הערכה פסיכיאטרית
         slug: human_services:health:mental_health_care:mental_health_evaluation
+        pk: a41d8c55906648b88cb0d5c61fa7bb2f
       - name:
           source: Hospitalization
           tx:
@@ -695,21 +824,27 @@
             tx:
               he: אשפוז כפוי
           slug: human_services:health:mental_health_care:hospitalization:forced_hospitalization
+          pk: 86a2bb988f384a56979d5a4cd594cc24
         - name:
             source: Voluntary Hospitalization
             tx:
               he: אשפוז מרצון
           slug: human_services:health:mental_health_care:hospitalization:voluntary_hospitalization
+          pk: 0c2c2f307387493aa27f71db39bac06e
         - name:
             source: Hospitalization Alternative
             tx:
               he: חלופות אשפוז
           slug: human_services:health:mental_health_care:hospitalization:hospitalization_alternative
+          pk: e4916f396e924c4d9d6853f40ee93ba5
         - name:
             source: Home Hospitalization
             tx:
               he: אשפוז ביתי
           slug: human_services:health:mental_health_care:hospitalization:home_hospitalization
+          pk: a7b6121558b54b379ff0b2c2830e03b7
+        pk: 214822fd5299456393ce7eca6d0e232b
+      pk: 423f475b419f492ab026d2c3386bd593
     - name:
         source: Prevent & Treat
         tx:
@@ -721,11 +856,13 @@
           tx:
             he: פרא-רפואה
         slug: human_services:health:prevent_treat:allied_health
+        pk: ee164b0ce7944d6dbe8bcf81f10c2388
       - name:
           source: Alternative Medicine
           tx:
             he: רפואה אלטרנטיבית
         slug: human_services:health:prevent_treat:alternative_medicine
+        pk: 94e12657d9f2436e9ac4e3989be200ce
       - name:
           source: Checkup & Test
           tx:
@@ -737,26 +874,32 @@
             tx:
               he: אבחון למחלות
           slug: human_services:health:prevent_treat:checkup_test:disease_screening
+          pk: a5037fee78124f609280d7774c6d2301
         - name:
             source: Eye Tests
             tx:
               he: בדיקות ראייה
           slug: human_services:health:prevent_treat:checkup_test:eye_tests
+          pk: 7848db00d319410286909f583e2be1cb
         - name:
             source: Genetic Testing
             tx:
               he: בדיקות גנטיות
           slug: human_services:health:prevent_treat:checkup_test:genetic_testing
+          pk: 16747dc4e99f411f8289fd5d63bc8b2f
         - name:
             source: Hearing Tests
             tx:
               he: בדיקות שמיעה
           slug: human_services:health:prevent_treat:checkup_test:hearing_tests
+          pk: e552059d6d724482af12d9d5ab4366f5
         - name:
             source: Pregnancy Tests
             tx:
               he: בדיקות הריון
           slug: human_services:health:prevent_treat:checkup_test:pregnancy_tests
+          pk: cbf4b27096cd45a68f86918c0f5c3dc9
+        pk: a2b5eaf8ce994369bdff4c8d92dfccd8
       - name:
           source: Medical Supplies
           tx:
@@ -768,91 +911,111 @@
             tx:
               he: טכנולוגיות עזר
           slug: human_services:health:prevent_treat:medical_supplies:assistive_technology
+          pk: d8dcc5cecbd5451daa08e2f59ce112da
         - name:
             source: Prosthesis
             tx:
               he: פרוטזות
           slug: human_services:health:prevent_treat:medical_supplies:prosthesis
+          pk: 5f81359e63c44037a08ec6ef68446bbe
+        pk: 25f0d05cd9284f8bb3557d0459a2b9fb
       - name:
           source: Clinics
           tx:
             he: מרפאות
         slug: human_services:health:prevent_treat:clinics
+        pk: 2960af38aa8a4bcaa19b2f37188582d5
       - name:
           source: Disease Management
           tx:
             he: התנהלות במחלה
         slug: human_services:health:prevent_treat:disease_management
+        pk: ec2d3d2230a94ab297eda4e587894eff
       - name:
           source: Hospital Treatment
           tx:
             he: טיפול בבית חולים
         slug: human_services:health:prevent_treat:hospital_treatment
+        pk: a1d1f01e18164054ab9d6183a3af94a7
       - name:
           source: In-Home Support
           tx:
             he: סיוע בבית
         slug: human_services:health:prevent_treat:in_home_support
+        pk: b9af6ad50b89479fa12a3a7bddaecb2a
       - name:
           source: Medication Management
           tx:
             he: ניהול תרופות
         slug: human_services:health:prevent_treat:medication_management
+        pk: 12d6bf7f34d541e997be117ad35f5b6c
       - name:
           source: Occupational Therapy
           tx:
             he: ריפוי בעיסוק
         slug: human_services:health:prevent_treat:occupational_therapy
+        pk: 26029b624b0a4103b55c5ecd5ffc7791
       - name:
           source: Pain Management
           tx:
             he: טיפול בכאב
         slug: human_services:health:prevent_treat:pain_management
+        pk: ae6707b510f8449a9a87734ec483e9bd
       - name:
           source: Physical Therapy
           tx:
             he: פיזיותרפיה
         slug: human_services:health:prevent_treat:physical_therapy
+        pk: 75fe5bd9a9064233b39f4286c3c01452
       - name:
           source: Rehabilitation
           tx:
             he: שיקום רפואי
         slug: human_services:health:prevent_treat:rehabilitation
+        pk: 632f01d746c74b96944fc7e23cb3dcb5
       - name:
           source: Residential Treatment
           tx:
             he: מרכזי גמילה
         slug: human_services:health:prevent_treat:residential_treatment
+        pk: 86aee6648bad48ef8c7dd651dcd3de55
       - name:
           source: Specialized Therapy
           tx:
             he: טיפול מיוחד
         slug: human_services:health:prevent_treat:specialized_therapy
+        pk: 2f97d2d321904842942ba9416da2fcef
       - name:
           source: Speech Therapy
           tx:
             he: קלינאות תקשורת
         slug: human_services:health:prevent_treat:speech_therapy
+        pk: bfa3bf66d83a45bfb1a27f622b68cb00
       - name:
           source: Vaccinations
           tx:
             he: חיסונים
         slug: human_services:health:prevent_treat:vaccinations
+        pk: cbe664e1c3e748ac82ada64c3e9e6482
       - name:
           source: Eye Care
           tx:
             he: טיפולי ראייה
         slug: human_services:health:prevent_treat:eye_care
+        pk: 7bb857e476674079a289323a14b30b2e
+      pk: 15e22b19d5174341ae378d054f5ef47c
     - name:
         source: Personal Hygiene
         tx:
           he: היגיינה אישית
       slug: human_services:health:personal_hygiene
+      pk: e3abe67ac0dc494ba952401ea60f97c0
     - name:
         source: Primary Care
         tx:
           he: טיפול ראשוני
       slug: human_services:health:primary_care
+      pk: b93caf3551c84584af9685910d198a7c
     - name:
         source: Sexual & Reproductive Health
         tx:
@@ -870,16 +1033,20 @@
             tx:
               he: אמצעי מניעה
           slug: human_services:health:sexual_reproductive_health:family_planning:birth_control
+          pk: f39a519c3e56487ea70b98acce2727d9
         - name:
             source: Fertility
             tx:
               he: טיפולי פוריות
           slug: human_services:health:sexual_reproductive_health:family_planning:fertility
+          pk: 97999b365f0b41d6a240ef836d9af35b
         - name:
             source: Sex Education
             tx:
               he: חינוך מיני
           slug: human_services:health:sexual_reproductive_health:family_planning:sex_education
+          pk: 112f6fbc780142409cca5cda417804fe
+        pk: 1b02a6b479a24634a16947297ed7f7cb
       - name:
           source: STD/STI Treatment & Prevention
           tx:
@@ -891,6 +1058,8 @@
             tx:
               he: טיפול ב-HIV
           slug: human_services:health:sexual_reproductive_health:std_sti_treatment_prevention:hiv_treatment
+          pk: f09053f2bf5e4faa96554a08bc0f39da
+        pk: 9bdfd7f7caee4eb0a7aec7ebdeeabca2
       - name:
           source: Women's Health
           tx:
@@ -902,21 +1071,28 @@
             tx:
               he: טיפול ביולדת
           slug: human_services:health:sexual_reproductive_health:womens_health:maternity_care
+          pk: 551c3789e7fa43f1ab3e02c1cd932b5b
         - name:
             source: Postnatal Care
             tx:
               he: טיפול לאחר לידה
           slug: human_services:health:sexual_reproductive_health:womens_health:postnatal_care
+          pk: 97271130fea24c1495a6e61cb08561c1
+        pk: 88e93b5de12342439ee0d59b1007c46a
+      pk: 56c61060b0ab4e39bd86488bb89133b2
     - name:
         source: Skilled Nursing
         tx:
           he: טיפול על ידי אחות
       slug: human_services:health:skilled_nursing
+      pk: cf3407e25391424b92ceac39157148eb
     - name:
         source: Support & Service Animals
         tx:
           he: חיות תמיכה
       slug: human_services:health:support_service_animals
+      pk: f60fc482ac40456c85073e85e68eb682
+    pk: 448db33c4c134a0d9f9088ec40515ea8
   - name:
       source: Housing
       tx:
@@ -928,11 +1104,13 @@
         tx:
           he: דיור ואירוח חירומי
       slug: human_services:housing:emergency_shelter
+      pk: 08a5292c369d42549e55645edc8b3359
     - name:
         source: Help Find Housing
         tx:
           he: עזרה במציאת דיור
       slug: human_services:housing:help_find_housing
+      pk: a469ccce22ce4d0bb3d27417ccdb79d2
     - name:
         source: Maintenance & Repairs
         tx:
@@ -944,26 +1122,32 @@
           tx:
             he: התאמות לבית
         slug: human_services:housing:maintenance_repairs:disability_modifications
+        pk: 1e241768dd16469e9bd677eb6bd67ab9
       - name:
           source: Housing Advice
           tx:
             he: עצות לדיור
         slug: human_services:housing:maintenance_repairs:housing_advice
+        pk: 5a279f9be15244e6b4ad892cafa5758a
       - name:
           source: Pest Control
           tx:
             he: הדברה
         slug: human_services:housing:maintenance_repairs:pest_control
+        pk: 16d4b96d0d6145a6980423443b6c99b8
       - name:
           source: Small repairs
           tx:
             he: תיקונים קטנים
         slug: human_services:housing:maintenance_repairs:small_repairs
+        pk: a6a51d96909d49679453a4b5dca9b0a5
+      pk: 9d7ce28fd3b14004967b85eda483c33f
     - name:
         source: Public Housing
         tx:
           he: דיור ציבורי
       slug: human_services:housing:public_housing
+      pk: db8b9e2f315441018334ea7d86be9c69
     - name:
         source: Residential Housing
         tx:
@@ -981,46 +1165,57 @@
             tx:
               he: דיור מוגן
           slug: human_services:housing:residential_housing:long_term_housing:assisted_living
+          pk: 4bd74f70d8194de593c9a8e78aea6804
         - name:
             source: Hostel
             tx:
               he: הוסטל
           slug: human_services:housing:residential_housing:long_term_housing:hostel
+          pk: 16258620fb3f4134bd57cd48a0e5d4ab
         - name:
             source: Independent Living
             tx:
               he: דיור עצמאי
           slug: human_services:housing:residential_housing:long_term_housing:independent_living
+          pk: 2ae5c4418a9342ec8b40c2f596ab468d
         - name:
             source: Nursing Home
             tx:
               he: מוסד סיעודי
           slug: human_services:housing:residential_housing:long_term_housing:nursing_home
+          pk: c458227d49b64f27aa8274344c348465
         - name:
             source: Training Apartments
             tx:
               he: דירות הכשרה
           slug: human_services:housing:residential_housing:long_term_housing:training_apartments
+          pk: d71904f850154208b083f6ce3b93cb31
         - name:
             source: Old Age Home
             tx:
               he: בית אבות
           slug: human_services:housing:residential_housing:long_term_housing:old_age_home
+          pk: 26b19980ba59492b874e650c49700800
         - name:
             source: Satellite Apartments
             tx:
               he: דירות לווין
           slug: human_services:housing:residential_housing:long_term_housing:satellite_apartments
+          pk: 483a47eaec4349a2807b3c16bc253dad
         - name:
             source: Safe Housing
             tx:
               he: דירת מעבר ומקלטים
           slug: human_services:housing:residential_housing:long_term_housing:safe_housing
+          pk: e0aa87e11233426ea6e722877d6cae1f
+        pk: fd056197adb74301951e973174e8ffe4
       - name:
           source: Short-Term Housing
           tx:
             he: דיור לטווח קצר
         slug: human_services:housing:residential_housing:short_term_housing
+        pk: 5e88b5aea1cf4cd6bb9f88f932e9a29f
+      pk: a44d621ff18547d6bd2f92a83e32aabe
     - name:
         source: Temporary Shelter
         tx:
@@ -1032,11 +1227,15 @@
           tx:
             he: מקלטים מאלימות
         slug: human_services:housing:temporary_shelter:shelters_from_violence
+        pk: 660730f6737b4bf484555a0b7d2dc182
       - name:
           source: Transit Flats
           tx:
             he: דירות מעבר
         slug: human_services:housing:temporary_shelter:transit_flats
+        pk: 4f41c42cfa0b43d9901956ff9287736d
+      pk: dfea2fabaaca45b98e8cbb4812e55012
+    pk: 3f13b358bd1d4edbbe8ef70bb94bc32e
   - name:
       source: Legal
       tx:
@@ -1054,56 +1253,69 @@
           tx:
             he: תושבות ומעמד
         slug: human_services:legal:advocacy_legal_aid:citizenship_immigration
+        pk: becb26751af247149e3fac2e063221a9
       - name:
           source: Discrimination & Civil Rights
           tx:
             he: סיוע עם אפליה וזכויות אזרח
         slug: human_services:legal:advocacy_legal_aid:discrimination_civil_rights
+        pk: c6de3c1a68b24879837d4750d19f0d86
       - name:
           source: Guardianship
           tx:
             he: אפוטרופסות
         slug: human_services:legal:advocacy_legal_aid:guardianship
+        pk: 79a3e6fbffdc40a2974caa121a503925
       - name:
           source: Identification Recovery
           tx:
             he: שחזור זיהוי
         slug: human_services:legal:advocacy_legal_aid:identification_recovery
+        pk: 5ba1654841f948de992a8177b98c6bb2
       - name:
           source: Understand Government Programs
           tx:
             he: מיצוי זכויות
         slug: human_services:legal:advocacy_legal_aid:understand_government_programs
+        pk: 3b5642888a134be790d633c221418482
       - name:
           source: Workplace Rights
           tx:
             he: זכויות עובדים
         slug: human_services:legal:advocacy_legal_aid:workplace_rights
+        pk: 7f859fe9f6b34a7999e4316057fe75f9
       - name:
           source: Financial difficulties
           tx:
             he: סיוע בקשיים כלכליים
         slug: human_services:legal:advocacy_legal_aid:financial_difficulties
+        pk: 35ef80800417477abe3201c61895b8b6
+      pk: 136131105a0b4270bb433a3c109db955
     - name:
         source: Mediation
         tx:
           he: גישור
       slug: human_services:legal:mediation
+      pk: c0b4ced6aaf94ec695a9eba646895b9b
     - name:
         source: Notary
         tx:
           he: נוטריון
       slug: human_services:legal:notary
+      pk: dbbd192cbe20425494e3fb4aa055872b
     - name:
         source: Representation
         tx:
           he: ייצוג משפטי
       slug: human_services:legal:representation
+      pk: 0e931f6e9e774de78926d323687a9157
     - name:
         source: Legal Translation & Interpretation
         tx:
           he: תרגום משפטי
       slug: human_services:legal:legal_translation_interpretation
+      pk: 00e4073a8d214dcabc08a8fd8241c89d
+    pk: 5ea4b2c2e64d4f5c8b74731524b1d7dc
   - name:
       source: Transport
       tx:
@@ -1115,6 +1327,8 @@
         tx:
           he: הסעות
       slug: human_services:transport:shuttle_serivce
+      pk: ac173c86dd444d6baf2ec3fbe67d29d5
+    pk: 3add84ebe66c40948cc95b7a0149ebd3
   - name:
       source: Money
       tx:
@@ -1132,26 +1346,31 @@
           tx:
             he: גמ"ח בכסף
         slug: human_services:money:financial_assistance:gamach_money
+        pk: 39d38ab0d258408baf4f4583c06b35b2
       - name:
           source: Help Pay for Childcare
           tx:
             he: עזרה כספית למסגרות לילדים
         slug: human_services:money:financial_assistance:help_pay_for_childcare
+        pk: 5de475e87f49496ea77dc86b427ab04d
       - name:
           source: Help Pay for Food
           tx:
             he: סיוע כספי לרכישת מזון
         slug: human_services:money:financial_assistance:help_pay_for_food
+        pk: 7d6575d896184980ac5e0e003002df2a
       - name:
           source: Help Pay for Healthcare
           tx:
             he: עזרה בתשלומים על שירותי בריאות
         slug: human_services:money:financial_assistance:help_pay_for_healthcare
+        pk: 7ad203ecc45f484cbdf5bdae6e24a7c2
       - name:
           source: Help to pay for transit
           tx:
             he: עזרה לתשלום על תחבורה
         slug: human_services:money:financial_assistance:help_to_pay_for_transit
+        pk: b30867de574b42d7b8bfb1f4a4f8f714
       - name:
           source: Help Pay for Housing
           tx:
@@ -1163,11 +1382,14 @@
             tx:
               he: עזרה בשיפוצים
           slug: human_services:money:financial_assistance:help_pay_for_housing:help_with_maintenance
+          pk: 08fe3b51577640279ae30feb8b816f4f
         - name:
             source: Help with Rent
             tx:
               he: עזרה בתשלום שכר דירה
           slug: human_services:money:financial_assistance:help_pay_for_housing:help_with_rent
+          pk: 84e12efbd5f94f49be989870859df1b5
+        pk: 14f2a4b5e18c4dd29f6d8484ddd8346d
       - name:
           source: Help Pay for School
           tx:
@@ -1179,31 +1401,39 @@
             tx:
               he: ספרים
           slug: human_services:money:financial_assistance:help_pay_for_school:books
+          pk: 8a6c5bf3ecbc47f5b0e3e116bb718b09
         - name:
             source: Clothes for School
             tx:
               he: תלבושת אחידה
           slug: human_services:money:financial_assistance:help_pay_for_school:clothes_for_school
+          pk: 2ba28c88bd5b4291b2fdb5ad204b09e7
         - name:
             source: Transportation for School
             tx:
               he: הסעות לבית הספר
           slug: human_services:money:financial_assistance:help_pay_for_school:transportation_for_school
+          pk: 6bf3613095f04fe4b57b00054af48b7f
         - name:
             source: Supplies for School
             tx:
               he: ציוד לבית הספר
           slug: human_services:money:financial_assistance:help_pay_for_school:supplies_for_school
+          pk: f2238ca456194a5ea1c6c1c1c2e7bef2
+        pk: 753baeb766ff454f8080d2c26fd272d9
+      pk: 33f0072acf0642eba51a0bdc179b06c4
     - name:
         source: Financial Education
         tx:
           he: חינוך פיננסי
       slug: human_services:money:financial_education
+      pk: b8a7915cb6454e9f9deea093043fc401
     - name:
         source: Insurance
         tx:
           he: ביטוח
       slug: human_services:money:insurance
+      pk: c47890441eb14c259c5026770b2254cc
     - name:
         source: Loans
         tx:
@@ -1215,21 +1445,27 @@
           tx:
             he: הלוואות לעסקים
         slug: human_services:money:loans:business_loans
+        pk: b26f5758d3664a0ba83f4a588cc26ed8
       - name:
           source: Personal Loans
           tx:
             he: הלוואות אישיות
         slug: human_services:money:loans:personal_loans
+        pk: f674e5a7880a4896918b60e1c5db4160
+      pk: a71db86974ab4a5aac2ebec3d7f2fa89
     - name:
         source: Tax Preparation
         tx:
           he: סיוע בהגשת מיסים
       slug: human_services:money:tax_preparation
+      pk: ff256995bfd149f383e29ffd50c79355
     - name:
         source: Consumer Rights Protection
         tx:
           he: הגנת זכויות הצרכן
       slug: human_services:money:consumer_rights_protection
+      pk: 4af9594358ec4b4f9e664e2517782c1c
+    pk: 46c10265901f42b2839906b6a95dda44
   - name:
       source: Work
       tx:
@@ -1241,6 +1477,7 @@
         tx:
           he: סיוע במציאת עבודה
       slug: human_services:work:help_find_work
+      pk: 68402f8c209447b29c491a49da5a93c8
     - name:
         source: Skills & Training
         tx:
@@ -1252,26 +1489,32 @@
           tx:
             he: הכנה לראיונות עבודה
         slug: human_services:work:skills_training:interview_training
+        pk: c72e7ef4bdb14c88a6a41182de54580e
       - name:
           source: Resume Development
           tx:
             he: כתיבת קורות חיים
         slug: human_services:work:skills_training:resume_development
+        pk: 4fdc120b320048819ce464f30cd43631
       - name:
           source: Skills Assessment
           tx:
             he: הערכת כישורים
         slug: human_services:work:skills_training:skills_assessment
+        pk: ca8976103fed4bcc9f85e3e8b4f10872
       - name:
           source: Specialized Training
           tx:
             he: הדרכות מיוחדות
         slug: human_services:work:skills_training:specialized_training
+        pk: 59be9b7016b54ed8a441b7b382c2ae2c
       - name:
           source: Vocational Courses
           tx:
             he: קורסים מקצועיים
         slug: human_services:work:skills_training:vocational_courses
+        pk: 1f86cdde458146c2afb1c26f30ebe7cd
+      pk: ced4af66569142e1804c3fc205588dce
     - name:
         source: Special Employment
         tx:
@@ -1283,16 +1526,21 @@
           tx:
             he: תעסוקה נתמכת
         slug: human_services:work:special_employment:supported_employment
+        pk: 47b3c2c0695b42519fc5225520271e3c
       - name:
           source: Protected Employment
           tx:
             he: תעסוקה מוגנת
         slug: human_services:work:special_employment:protected_employment
+        pk: 000175d6fcf14294af921eaf65c0602b
       - name:
           source: Protected Factory
           tx:
             he: מפעל מוגן
         slug: human_services:work:special_employment:protected_factory
+        pk: 1ce1ed6eec184906972d86127ddde3b5
+      pk: 84beefcf91a641f2ac8c486c915b6855
+    pk: 31fa4440e0aa4808bd72798a2908416b
   - name:
       source: Culture and Sports
       tx:
@@ -1304,93 +1552,114 @@
         tx:
           he: אומנות
       slug: human_services:culture_and_sports:fine_art
+      pk: 3ddc2cfa9f05414399a7b9ea393b3480
     - name:
         source: Cinema
         tx:
           he: קולנוע
       slug: human_services:culture_and_sports:cinema
+      pk: d2c0b102b29841449fcfc8591847481b
     - name: Commemoration
       slug: human_services:culture_and_sports:commemoration
+      pk: 857d7b1556d04794948038c7fde64a44
     - name:
         source: Exhibitions
         tx:
           he: תערוכות
       slug: human_services:culture_and_sports:exhibitions
+      pk: dd7b9c187c2f4d90a63be0858c67c63c
     - name:
         source: Choirs
         tx:
           he: מקהלות
       slug: human_services:culture_and_sports:choirs
+      pk: b70065e0e4e241e7b51e7295966e6e11
     - name:
         source: Dance
         tx:
           he: מחול
       slug: human_services:culture_and_sports:dance
+      pk: 655abf8f6dba482085aab8a24102c3ad
     - name:
         source: Digital Art
         tx:
           he: אומנות דיגיטלית
       slug: human_services:culture_and_sports:digital_art
+      pk: b6ac5d0adac444ab924cc021f7f1451f
     - name:
         source: Exercise & Fitness
         tx:
           he: התעמלות וכושר
       slug: human_services:culture_and_sports:exercise_fitness
+      pk: fa754daee5404610aa3be60451517b2c
     - name:
         source: Hasbara
         tx:
           he: הסברה
       slug: human_services:culture_and_sports:hasbara
+      pk: ab8f4090dada483d9e5483d6f372f5b2
     - name:
         source: Jewish Culture
         tx:
           he: תרבות יהודית
       slug: human_services:culture_and_sports:jewish_culture
+      pk: e8b3e1c004484d9a9b513f7a25f63517
     - name:
         source: Ethnic Culture
         tx:
           he: תרבות אתנית ועדתית
       slug: human_services:culture_and_sports:ethnic_culture
+      pk: 1c25339d6219441eaa49526f305dc2ba
     - name:
         source: Literature
         tx:
           he: ספרות
       slug: human_services:culture_and_sports:literature
+      pk: 9335836ba5cc48a2957c779ee83be4a8
     - name:
         source: Music
         tx:
           he: מוזיקה
       slug: human_services:culture_and_sports:music
+      pk: b6637088d2af46bb90332a77fec1eea8
     - name:
         source: Opera
         tx:
           he: אופרה
       slug: human_services:culture_and_sports:opera
+      pk: ff29d5d495f34da5b62881c3ed08b10a
     - name:
         source: Orchestra
         tx:
           he: תזמורת
       slug: human_services:culture_and_sports:orchestra
+      pk: 36d76936d7fc46a28f2033c90536cb20
     - name:
         source: Sports
         tx:
           he: ספורט
       slug: human_services:culture_and_sports:sports
+      pk: 696e0a8e2a8048018b2677c755742f09
     - name:
         source: Theatre
         tx:
           he: תיאטרון
       slug: human_services:culture_and_sports:theatre
+      pk: 7108c8815f204b028b523cfb2ff1012f
     - name:
         source: TV
         tx:
           he: טלוויזיה
       slug: human_services:culture_and_sports:tv
+      pk: d7abceb5e38c4d47a4b697c7f5cbf69c
     - name:
         source: Radio
         tx:
           he: רדיו
       slug: human_services:culture_and_sports:radio
+      pk: aac72cecf3ef4854a14f6e0308b39afd
+    pk: 839b73f52ebc46a58c0c8eff0a55e99c
+  pk: 1021f2cdc2eb4d849296f8508a9784a4
 - name:
     source: Human Situations
     tx:
@@ -1409,36 +1678,43 @@
           he: הגיל הרך
       slug: human_situations:age_group:infants
       description: 0-1 years old
+      pk: 8b0f5ed536a14f6da5317047f9044a9d
     - name:
         source: Children
         tx:
           he: ילדים
       slug: human_situations:age_group:children
       description: 2-12 years old
+      pk: 965c8af17a464fd8aab7a6b3e320bda6
     - name:
         source: Teens
         tx:
           he: נוער
       slug: human_situations:age_group:teens
       description: 13-19 years old
+      pk: 6e1cee972d2c43a89d14c77022ff36e6
     - name:
         source: Young Adults
         tx:
           he: צעירים
       slug: human_situations:age_group:young_adults
       description: 20-30 years old
+      pk: feb50212e85f451fb502aa7570b34e93
     - name:
         source: Adults
         tx:
           he: מבוגרים
       slug: human_situations:age_group:adults
       description: 31-54 years old
+      pk: 019e86e599864f99b85fa19cfa5ec924
     - name:
         source: Seniors
         tx:
           he: אזרחים ותיקים
       slug: human_situations:age_group:seniors
       description: 55+ years old
+      pk: 786c75c93d3e49d3b6f36e932d3604c5
+    pk: 19c6e2719f844a548c8f9fd59cd61788
   - name:
       source: Armed Forces
       tx:
@@ -1450,41 +1726,50 @@
         tx:
           he: משרתי צבא סדיר
       slug: human_situations:armed_forces:active_duty
+      pk: 8472801d02aa4b0cbc1a6a02422a737a
     - name:
         source: Bereaved families
         tx:
           he: משפחות שכולות
       slug: human_situations:armed_forces:bereaved_families
+      pk: 3545f6f5c5d448dab952439ed1ec7076
     - name:
         source: Ex-soldiers
         tx:
           he: חיילים משוחררים
       slug: human_situations:armed_forces:ex_soldiers
+      pk: 20181b93b2144c439e714b7c2cae03af
     - name:
         source: Injured while on Duty
         tx:
           he: נכי צה"ל
       slug: human_situations:armed_forces:injured_while_on_duty
+      pk: 55737e90f12849ad87e246ea129d419c
     - name:
         source: Professional Duty
         tx:
           he: משרתי צבא קבע
       slug: human_situations:armed_forces:professional_duty
+      pk: aa7dd9f55a074077a343f59f0a135e18
     - name:
         source: Reserves
         tx:
           he: משרתי מילואים
       slug: human_situations:armed_forces:reserves
+      pk: 1ab6e776ddf649fa8736f833f716c180
     - name:
         source: Veterans
         tx:
           he: גמלאי צה"ל
       slug: human_situations:armed_forces:veterans
+      pk: 13911a327c3c443babc03d829c549f46
     - name:
         source: Police
         tx:
           he: כוחות המשטרה
       slug: human_situations:armed_forces:police
+      pk: 830b2474b3f54daaa7220ae81911a1ec
+    pk: b74339f9db97444885504fb2a8e9f75d
   - name:
       source: Benefit Holders
       tx:
@@ -1502,41 +1787,50 @@
           tx:
             he: מוכרים כנכים
         slug: human_situations:benefit_holders:social_security:disability
+        pk: 2a770e4828344ee29f35d0c5eb137601
       - name:
           source: Income Security
           tx:
             he: מקבלי הבטחת הכנסה / השלמת הכנסה
         slug: human_situations:benefit_holders:social_security:income_security
+        pk: 962496252e024c6896b7ffed7614ebcd
       - name:
           source: Nursing Care
           tx:
             he: מוכרים כסיעודיים
         slug: human_situations:benefit_holders:social_security:nursing_care
+        pk: abc48fe3f54248369fa3e3d5cacd4be2
       - name:
           source: Righteous Among the Nations
           tx:
             he: חסידי אומות עולם
         slug: human_situations:benefit_holders:social_security:righteous_among_the_nations
+        pk: 26005d54f3284626aadc314ba5ef220c
       - name:
           source: USSR Veterans
           tx:
             he: וטרנים
         slug: human_situations:benefit_holders:social_security:ussr_veterans
+        pk: 80e7e01c11f04240ada500dac78c60f0
       - name:
           source: Zion Prisoners
           tx:
             he: אסירי ציון
         slug: human_situations:benefit_holders:social_security:zion_prisoners
+        pk: 8d02f0cf692b4185a1e8629297f0cf30
       - name:
           source: Terror Victims
           tx:
             he: נפגעי פעולות איבה
         slug: human_situations:benefit_holders:social_security:terror_victims
+        pk: 7e8407e206e444d382f4a0cee7ff4f57
+      pk: afdd48f1d4544474b7808ef8f59de0bd
     - name:
         source: Holocaust Survivors
         tx:
           he: ניצולי שואה
       slug: human_situations:benefit_holders:holocaust_survivors
+      pk: 3291133c24f74c69967a908c240bd9b1
     - name:
         source: Ministry of Health
         tx:
@@ -1548,6 +1842,8 @@
           tx:
             he: זכאי סל שיקום
         slug: human_situations:benefit_holders:ministry_of_health:rehabilitation_basket
+        pk: 851385dfb5144105a801a6f0982b1f46
+      pk: 33f7fa27eea74803b45596e74e432496
     - name:
         source: Ministry of Defense
         tx:
@@ -1559,11 +1855,15 @@
           tx:
             he: מוכרים כנכי צה"ל
         slug: human_situations:benefit_holders:ministry_of_defense:injured_while_on_duty
+        pk: fc74bb3a81744e489f865cbca9bc47a5
       - name:
           source: Bereaved Families
           tx:
             he: משפחות שכולות
         slug: human_situations:benefit_holders:ministry_of_defense:bereaved_families
+        pk: 56a38f00efd044a9b398764c8d29cc8b
+      pk: ec476d197d7b4af593b6d2db2b60dce5
+    pk: c20086c4287547c9beb0c4e6fdb5506a
   - name:
       source: Citizenship
       tx:
@@ -1575,11 +1875,13 @@
         tx:
           he: בעלי אזרחות ישראלית
       slug: human_situations:citizenship:citizens
+      pk: 61ccd1febbc5469ea37856899b802bd8
     - name:
         source: Foreign Residents
         tx:
           he: תושבי חוץ
       slug: human_situations:citizenship:foreign_residents
+      pk: c52aa5d4ab174bd9ad4bcb628727e505
     - name:
         source: Foreign Workers
         tx:
@@ -1591,51 +1893,63 @@
           tx:
             he: מהגרי חקלאות ובנייה
         slug: human_situations:citizenship:foreign_workers:agriculture_and_building
+        pk: b3daac0b32994b1cbcd5acf6086cb49d
       - name:
           source: Nursing
           tx:
             he: מהגרים עובדים סיעודיים
         slug: human_situations:citizenship:foreign_workers:nursing
+        pk: 80bc4f0a267d41068fcad6b27c1e64f1
       - name:
           source: Experts
           tx:
             he: בעלי ויזת מומחה
         slug: human_situations:citizenship:foreign_workers:experts
+        pk: ee81e77dfc4f4261bff0b67324bd0414
+      pk: ca1d92569eb34969be3c011a436a0407
     - name:
         source: Immigrants
         tx:
           he: מהגרים
       slug: human_situations:citizenship:immigrants
+      pk: cee278861817492aa607038ad89da8df
     - name:
         source: Olim
         tx:
           he: עולים
       slug: human_situations:citizenship:olim
+      pk: 6ac3929765e9444494c43dab1874b450
     - name:
         source: Palestinians Workers
         tx:
           he: עובדים פלסטינים
       slug: human_situations:citizenship:palestinians_workers
+      pk: 035105a446264388b52bbf8f834013de
     - name:
         source: Refugees
         tx:
           he: פליטים
       slug: human_situations:citizenship:refugees
+      pk: 3d784a46b04748b381443c8f835b7be0
     - name:
         source: Residents
         tx:
           he: תושבים (ללא אזרחות)
       slug: human_situations:citizenship:residents
+      pk: c445c4007073424da2945b0e15a88379
     - name:
         source: Statusless
         tx:
           he: מחוסרי מעמד
       slug: human_situations:citizenship:statusless
+      pk: c3bd977c97e34603a1d1f362d740a82d
     - name:
         source: Returned residents
         tx:
           he: תושבים חוזרים
       slug: human_situations:citizenship:returned_residents
+      pk: 2770007365ee492ab414d90909e1d3f1
+    pk: 6d5fbf254cf340fba4910c34f392069a
   - name:
       source: Community
       tx:
@@ -1647,11 +1961,14 @@
         tx:
           he: פעילים חברתיים
       slug: human_situations:community:activists
+      pk: 45ae1b2ed1f14a3fa1e41eecbfb1e9d7
     - name:
         source: Leaders
         tx:
           he: מנהיגות קהילתית
       slug: human_situations:community:leaders
+      pk: 3717f6ede09441c186474c9631c8b48b
+    pk: 41af87c6ef4c466287584fbe46841e72
   - name:
       source: Criminal History
       tx:
@@ -1663,31 +1980,38 @@
         tx:
           he: בעלי עבר פלילי
       slug: human_situations:criminal_history:ex_offenders
+      pk: 5ae5ed63dbee4a86a81f3e19c3adf855
     - name:
         source: Ex-Offenders youth
         tx:
           he: נוער בעל עבר פלילי
       slug: human_situations:criminal_history:ex_offenders_youth
+      pk: 05bdb55fe7794b9abf49c8ee4e38e270
     - name:
         source: Prisoners
         tx:
           he: אסירים
       slug: human_situations:criminal_history:prisoners
+      pk: 25ce942f24f24e10bddc90765eaa35d5
     - name:
         source: Ex prisoners
         tx:
           he: אסירים לשעבר
       slug: human_situations:criminal_history:ex_prisoners
+      pk: 92cf411aca584a5d9ad5b3bb04b2aedb
     - name:
         source: Sexual Perpetrators
         tx:
           he: עברייני מין
       slug: human_situations:criminal_history:sexual_perpetrators
+      pk: c7c36eff679d4735bb1a27a7d840df43
     - name:
         source: Violent tendencies
         tx:
           he: עברייני אלימות במשפחה
       slug: human_situations:criminal_history:violent_tendencies
+      pk: 1b8f70d0532c49ce864b5ca95d5918b6
+    pk: 877ae07168f8473294901d4d591041ce
   - name:
       source: Deprivation
       tx:
@@ -1699,21 +2023,26 @@
         tx:
           he: אנשים מפריפריה גיאוגרפית
       slug: human_situations:deprivation:geographical_periphery
+      pk: 26f31c136cc3462b97a27fc8685b5696
     - name:
         source: Social Periphary
         tx:
           he: אנשים מפריפריה חברתית
       slug: human_situations:deprivation:social_periphary
+      pk: 28ee7fa065b347bfb83d6a9e8578dc4f
     - name:
         source: Health Deprivation
         tx:
           he: אנשים עם קשיי נגישות לשירותי בריאות
       slug: human_situations:deprivation:health_deprivation
+      pk: 2d94d8ff079243fcba1bf39204c1cd2e
     - name:
         source: Education / skills Deprivation
         tx:
           he: אנשים עם חסך בחינוך / מיומנות
       slug: human_situations:deprivation:education_skills_deprivation
+      pk: 9e5e174046cb40b7a84cbaf0e273a49c
+    pk: a516439acb6840e58d932b913ab00672
   - name:
       source: Disability
       tx:
@@ -1725,16 +2054,19 @@
         tx:
           he: אוטיסטים
       slug: human_situations:disability:autistic_spectrum
+      pk: 0cdddad6aeed4bc58d46d7d21be7c59a
     - name:
         source: Deaf or Hard of Hearing
         tx:
           he: בעלי חרשות או שמיעה מוגבלת
       slug: human_situations:disability:deaf_or_hard_of_hearing
+      pk: e36fcc42c2c14c63863ea4eccc3a959e
     - name:
         source: Intellectual Disability
         tx:
           he: בעלי מוגבלות שכלית והתפתחותית
       slug: human_situations:disability:intellectual_disability
+      pk: 884b55c9ab894883adabbcb14ffffda7
     - name:
         source: Learning Disability
         tx:
@@ -1746,36 +2078,45 @@
           tx:
             he: בעלי הפרעות קשב וריכוז
         slug: human_situations:disability:learning_disability:add_adhd
+        pk: 7bb076bbec2d46bfac28dd58691a26da
+      pk: 9928513ccfdc4cdba6519d91f689bdfe
     - name:
         source: Mental Illness
         tx:
           he: מתמודדי נפש
       slug: human_situations:disability:mental_illness
+      pk: 6d565c5bc004470b9c830e66a84a3dc0
     - name:
         source: Limited Mobility
         tx:
           he: בעלי מוגבלות בתנועה
       slug: human_situations:disability:limited_mobility
+      pk: dc3c827b934343678583aa96a4eb0c5f
     - name:
         source: Physical Disability
         tx:
           he: אנשים עם מוגבלות פיזית
       slug: human_situations:disability:physical_disability
+      pk: e73b351f57da448fb6103d86b2f65ea5
     - name:
         source: Visual Impairment
         tx:
           he: בעלי ליקוי ראיה
       slug: human_situations:disability:visual_impairment
+      pk: 9d810c7cc66141bcb592a14a07d4631d
     - name:
         source: Mentally Debilitated
         tx:
           he: תשושי נפש
       slug: human_situations:disability:mentally_debilitated
+      pk: 68b1aeb519ba45518efa9f68d9ead25f
     - name:
         source: In Need for Nursing Care
         tx:
           he: אנשים במצב סיעודי
       slug: human_situations:disability:in_need_for_nursing_care
+      pk: 802f51b9a4614cff84f1518ba59ddba2
+    pk: e5a7b938b12145c78c91f8b5ec0a3017
   - name:
       source: Education
       tx:
@@ -1787,26 +2128,32 @@
         tx:
           he: נשירה ממערכת החינוך
       slug: human_situations:education:dropouts
+      pk: 4587389936184133a554cc3af3c43974
     - name:
         source: Gifted Students
         tx:
           he: ילדים מחוננים
       slug: human_situations:education:gifted_students
+      pk: 339b67cd7b4242dba87afc9cf95ed79e
     - name:
         source: Special needs
         tx:
           he: בעלי צרכים מיוחדים
       slug: human_situations:education:special_needs
+      pk: 72f668bde25f48abba33851241564ada
     - name:
         source: Students
         tx:
           he: סטודנטים
       slug: human_situations:education:students
+      pk: 19eee502af39495b9783015f70606932
     - name:
         source: Yeshiva students
         tx:
           he: תלמידי ישיבה
       slug: human_situations:education:yeshiva_students
+      pk: 9e91fa2805e04eeea8f56df3fcdb79eb
+    pk: 07d65b4e13164208b49785d007d03970
   - name:
       source: Employment
       tx:
@@ -1818,26 +2165,32 @@
         tx:
           he: שכירים
       slug: human_situations:employment:employed
+      pk: ad7df4c64d23411193b76a6cac4b5e6e
     - name:
         source: Retirement
         tx:
           he: אנשים בגמלאות
       slug: human_situations:employment:retirement
+      pk: 36b73a598d98411382716af606c6f20a
     - name:
         source: Self-employed
         tx:
           he: עצמאים
       slug: human_situations:employment:self_employed
+      pk: 020f86bfe9a9494f8166c1b3869445e8
     - name:
         source: Unemployed
         tx:
           he: מובטלים
       slug: human_situations:employment:unemployed
+      pk: 67f225bb171744179ed6e87015bfd362
     - name:
         source: Farmers
         tx:
           he: חקלאים
       slug: human_situations:employment:farmers
+      pk: 162836a323d04431bcd385e292c64816
+    pk: debca73b4c654288b43ab1132519df0f
   - name:
       source: Gender
       tx:
@@ -1849,21 +2202,26 @@
         tx:
           he: נשים בלבד
       slug: human_situations:gender:women
+      pk: bfc734e161764f5c9e4bb249b246dca0
     - name:
         source: Men
         tx:
           he: גברים בלבד
       slug: human_situations:gender:men
+      pk: 52e8a008779b47ffbbb88933170ec4cf
     - name:
         source: Transgender
         tx:
           he: טרנסג'נדר
       slug: human_situations:gender:transgender
+      pk: 02e83f88e1ec4154bda0592eb8a2f0c3
     - name:
         source: Non-binary
         tx:
           he: לא בינאריים
       slug: human_situations:gender:non_binary
+      pk: 99192be7e5b7443aac518e4f2ad98e90
+    pk: fc5c0ee944744424988bcf684b576c23
   - name:
       source: Health
       tx:
@@ -1875,6 +2233,7 @@
         tx:
           he: חולים כרוניים
       slug: human_situations:health:chronic_illness
+      pk: 28c7dca5cd1e43afb00ce32f5cf0bea4
     - name:
         source: Endocrine, nutritional or metabolic diseases
         tx:
@@ -1886,26 +2245,32 @@
           tx:
             he: חולי סכרת נעורים
         slug: human_situations:health:endocrine_nutritional_or_metabolic_diseases:type_1_diabetes
+        pk: 46afccb236834379af0b43feb32209be
       - name:
           source: Type 2 Diabetes
           tx:
             he: חולי סכרת
         slug: human_situations:health:endocrine_nutritional_or_metabolic_diseases:type_2_diabetes
+        pk: 6ede87c577324660890e821a41db3962
+      pk: ccb423277d6248dbb86d7c7494d103f1
     - name:
         source: Fertility
         tx:
           he: אנשים עם בעיות פוריות
       slug: human_situations:health:fertility
+      pk: 45a5730c11b6439c98cdff572c94ed9c
     - name:
         source: Genetic Disorder
         tx:
           he: חולים במחלה גנטית
       slug: human_situations:health:genetic_disorder
+      pk: 26cbbd8bb8ca4dc3b27ef8d591ac62b6
     - name:
         source: Heart diseases
         tx:
           he: חולי מחלות לב
       slug: human_situations:health:heart_diseases
+      pk: da90176aabe5485a94f0f16acb4a5725
     - name:
         source: Infectious Disease
         tx:
@@ -1917,11 +2282,14 @@
           tx:
             he: חולי איידס
         slug: human_situations:health:infectious_disease:hiv_aids
+        pk: f1c3d9d513034f4fa2ad3ca04ddfff05
       - name:
           source: COVID19
           tx:
             he: חולי קורונה
         slug: human_situations:health:infectious_disease:covid19
+        pk: f92ad6e71ff3401b9e64f922648cc551
+      pk: b65ed89a52154da18ce59d80398b6215
     - name:
         source: Treatment Phases
         tx:
@@ -1933,56 +2301,68 @@
           tx:
             he: כל שלבי הטיפול
         slug: human_situations:health:treatment_phases:all_care_phases
+        pk: 1a531590127f4247802c4df7a05d26c7
       - name:
           source: Hospitalized
           tx:
             he: מאושפזים
         slug: human_situations:health:treatment_phases:hospitalized
+        pk: 9946b40f4bff4cca84f8d994adf753e1
       - name:
           source: Recently Diagnosed
           tx:
             he: מאובחנים טריים
         slug: human_situations:health:treatment_phases:recently_diagnosed
+        pk: e25b9da55761442ba5eb033cc03dcca8
       - name:
           source: On-Treatment
           tx:
             he: אנשים בטיפול
         slug: human_situations:health:treatment_phases:on_treatment
+        pk: 2dc1bacc9249484a8557741110f77d6e
       - name:
           source: Post-Treatment
           tx:
             he: אנשים אחרי טיפול
         slug: human_situations:health:treatment_phases:post_treatment
+        pk: f993f29c31a6455d96a435b9143a9277
       - name:
           source: Facing End of Life
           tx:
             he: אנשים על ערש דווי
         slug: human_situations:health:treatment_phases:facing_end_of_life
+        pk: 7531728794b14c0ca14b29e22a7d76fd
       - name:
           source: Community care
           tx:
             he: טיפול בקהילה
         slug: human_situations:health:treatment_phases:community_care
+        pk: 8448c62dabf14aefb00536639e337cc0
       - name:
           source: Forced Hospitalization
           tx:
             he: אשפוז כפוי
         slug: human_situations:health:treatment_phases:forced_hospitalization
+        pk: a1481cd8ff754bc485e4685901d467af
       - name:
           source: No recognition
           tx:
             he: ללא הכרה במחלה
         slug: human_situations:health:treatment_phases:no_recognition
+        pk: a25ef0dd5bfa4175a59fcf8f93d33dfd
       - name:
           source: Home Care
           tx:
             he: אשפוז ביתי
         slug: human_situations:health:treatment_phases:home_care
+        pk: ceb3944b39ad428b880a4bef1868d4bc
       - name:
           source: Nursing Care
           tx:
             he: אנשים במצב סיעודי
         slug: human_situations:health:treatment_phases:nursing_care
+        pk: bd5825b7d4b5443d87886fbe169ce01d
+      pk: b723c171ec514f0899fffc44567f6b67
     - name:
         source: Neoplasm
         tx:
@@ -1994,6 +2374,8 @@
           tx:
             he: חולי סרטן
         slug: human_situations:health:neoplasm:cancer
+        pk: 63489bacdd0441f89506df5c52ce3737
+      pk: 26c2fa44d70743aabaac09fed3ddc2e8
     - name:
         source: Nervous System Disease
         tx:
@@ -2005,31 +2387,38 @@
           tx:
             he: אנשים שעברו אירוע מוחי
         slug: human_situations:health:nervous_system_disease:stroke
+        pk: 375d9bd531e346828a9b1b1f8a036ff9
       - name:
           source: Epilepsy
           tx:
             he: חולי אפיליפסיה
         slug: human_situations:health:nervous_system_disease:epilepsy
+        pk: 2e7d37aea75d41ffbd572d570b2b95d0
       - name:
           source: Alzheimer disease
           tx:
             he: חולי אלצהיימר ומחלות דמנציה
         slug: human_situations:health:nervous_system_disease:alzheimer_disease
+        pk: 07ce442a7d044080bcb0e2e00d15dc11
       - name:
           source: Parkinson's
           tx:
             he: חולי פרקינסון
         slug: human_situations:health:nervous_system_disease:parkinsons
+        pk: 2b98d52bb3484f2a9bebbd319b443cea
+      pk: 824d7c86fe9a4bda969bd4d75a195259
     - name:
         source: Neurodevelopmental Disorders
         tx:
           he: אנשים עם לקות נוירו-התפתחותית
       slug: human_situations:health:neurodevelopmental_disorders
+      pk: f9439fc0ac4b4cc6b5461142c55777f4
     - name:
         source: Pregnant
         tx:
           he: הריון
       slug: human_situations:health:pregnant
+      pk: 6ee57dd09c584f1ea0123e0723dc6424
     - name:
         source: Rare diseases
         tx:
@@ -2041,6 +2430,8 @@
           tx:
             he: אנשים עם דיסאוטונומיה משפחתית (FD)
         slug: human_situations:health:rare_diseases:familial_dysautonomia
+        pk: 3dcd822cc1c64675997789792a3dad89
+      pk: 15d7efccbeb144e1a3afdb838f70dab6
     - name:
         source: Respiratory System Disease
         tx:
@@ -2052,6 +2443,8 @@
           tx:
             he: חולי אסתמה
         slug: human_situations:health:respiratory_system_disease:asthma
+        pk: ceb1fcbc4b114706bcbcabdc34dbbc9c
+      pk: 77c9835693e54acd8207bb8d0daa074d
     - name:
         source: Rheumatic Diseases
         tx:
@@ -2063,6 +2456,9 @@
           tx:
             he: חולי פיברומיאלגיה
         slug: human_situations:health:rheumatic_diseases:fibromyalgia
+        pk: e15af3a87ec84ebaa3664be4e92df26e
+      pk: 57764a4e0ba24b03b0b494247059d932
+    pk: 55d4ab54a79b4d9db73986262c3f9c4b
   - name:
       source: Household
       tx:
@@ -2080,61 +2476,75 @@
           tx:
             he: משפחות מאמצות
         slug: human_situations:household:families:adoption
+        pk: 797160b9b217441f94193ba28bbe52f4
       - name:
           source: Divorced
           tx:
             he: גירושים
         slug: human_situations:household:families:divorced
+        pk: ccf9015457494d28ab443deef870c8af
       - name:
           source: Fathers
           tx:
             he: אבות
         slug: human_situations:household:families:fathers
+        pk: fb876fcb656c49f482aafca19a3bd820
       - name:
           source: Foster Caregivers
           tx:
             he: הורים אומנים
         slug: human_situations:household:families:foster_caregivers
+        pk: 9e40e893dfc3465ab1dc8224f6161709
       - name:
           source: Mothers
           tx:
             he: אמהות
         slug: human_situations:household:families:mothers
+        pk: 200f96fdcc3647d88d02cbf4b0551510
       - name:
           source: Parents
           tx:
             he: הורים
         slug: human_situations:household:families:parents
+        pk: 57f31e9fbfaa403d9f0c4d30cf611cc8
       - name:
           source: Single Parent
           tx:
             he: משפחות שבראשן הורה עצמאי
         slug: human_situations:household:families:single_parent
+        pk: c0bbe019aeb24fd5811cd295a71c2c2a
       - name:
           source: Surrogacy
           tx:
             he: פונדקאות
         slug: human_situations:household:families:surrogacy
+        pk: 5357062f52cb496c97e6548acec2bebd
       - name:
           source: Siblings
           tx:
             he: אחים
         slug: human_situations:household:families:siblings
+        pk: 069db08bafef4d53ad8df10e5590de92
+      pk: 1155dbb06f4242f5837e480829010a5b
     - name:
         source: Individuals
         tx:
           he: רווקים
       slug: human_situations:household:individuals
+      pk: 9ffb3dca3d66426188c723aa836abbbd
     - name:
         source: Loneliness
         tx:
           he: בודדים
       slug: human_situations:household:loneliness
+      pk: be4940dadbfe445e9d3bd1b99bf5b0f3
     - name:
         source: Orphans
         tx:
           he: יתומים
       slug: human_situations:household:orphans
+      pk: 8cfe20d6d1d1422cae82c1de170823de
+    pk: 5cf903e5ac48401fbc160d10c9646ba3
   - name:
       source: Housing
       tx:
@@ -2146,31 +2556,38 @@
         tx:
           he: בעלי בתים
       slug: human_situations:housing:home_owners
+      pk: 2bc640deb320416e9e4a1c6a8c516369
     - name:
         source: Home Renters
         tx:
           he: שוכרי דירות
       slug: human_situations:housing:home_renters
+      pk: 638e2b42de2d47b693cf03ae5de1f3ec
     - name:
         source: Homeless
         tx:
           he: מחוסרי בית
       slug: human_situations:housing:homeless
+      pk: 44f35cee58474a1da61e0617089b65eb
     - name:
         source: Public Housing Tenants
         tx:
           he: דיירי דיור ציבורי
       slug: human_situations:housing:public_housing_tenants
+      pk: 040d487ee8da44b69d3ea7b99795c8eb
     - name:
         source: Recipients of Housing Assistance
         tx:
           he: מקבלי סיוע בדיור
       slug: human_situations:housing:recipients_of_housing_assistance
+      pk: 68e597c8592742b69086a0d280b228d3
     - name:
         source: Runaways
         tx:
           he: נוער רחוב
       slug: human_situations:housing:runaways
+      pk: 4fa2d9e572294997b7c2dff5aec3c4b1
+    pk: 2b973c8d6fbc491fa828423d23a9b7f7
   - name:
       source: Income
       tx:
@@ -2182,11 +2599,14 @@
         tx:
           he: נתמכי קצבה
       slug: human_situations:income:benefit_recipients
+      pk: 9ea5d90e03724424be3cec32a54d8429
     - name:
         source: Low-Income
         tx:
           he: בעלי הכנסה נמוכה וקשיים כלכליים
       slug: human_situations:income:low_income
+      pk: 25c72caaaab242059340d151517ae167
+    pk: a60ab62189a14695ae4543882b7a0438
   - name:
       source: Language
       tx:
@@ -2198,41 +2618,50 @@
         tx:
           he: דוברי ערבית
       slug: human_situations:language:arabic_speaking
+      pk: cbce117fe006489ba01a571bf01e8c70
     - name:
         source: Amharic Speaking
         tx:
           he: דוברי אמהרית
       slug: human_situations:language:amharic_speaking
+      pk: f01b12f8d5cc4265bc355faba866db50
     - name:
         source: English Speaking
         tx:
           he: דוברי אנגלית
       slug: human_situations:language:english_speaking
+      pk: 254532d3246b4f5bad9142ea5d56e476
     - name:
         source: French Speaking
         tx:
           he: דוברי צרפתית
       slug: human_situations:language:french_speaking
+      pk: 42b70b30cede4fbca8e0d24b31d6721c
     - name:
         source: Hebrew Speaking
         tx:
           he: דוברי עברית
       slug: human_situations:language:hebrew_speaking
+      pk: 955d4852215942a0a6d00a09b70fec6e
     - name:
         source: Russian Speaking
         tx:
           he: דוברי רוסית
       slug: human_situations:language:russian_speaking
+      pk: 13d280c2eaa34d00be35ebffcd750025
     - name:
         source: Sign Language
         tx:
           he: דוברי שפת הסימנים
       slug: human_situations:language:sign_language
+      pk: 1d2daa8f28bf4370aaea8d1db951876d
     - name:
         source: Spanish Speaking
         tx:
           he: דוברי ספרדית
       slug: human_situations:language:spanish_speaking
+      pk: 70ec0cb501514926af7876f68a66322b
+    pk: 1fd6b4487f114cec9b9f8c591a7cbe30
   - name:
       source: Life Events
       tx:
@@ -2244,31 +2673,38 @@
         tx:
           he: בר/בת מצווה
       slug: human_situations:life_events:bar_bat_mitzva
+      pk: 911380e12ec04f55a8326aed70a7715b
     - name:
         source: Birth
         tx:
           he: לידה
       slug: human_situations:life_events:birth
+      pk: 3f5d242e1e194b369e41321b3727c93b
     - name:
         source: Death
         tx:
           he: מוות
       slug: human_situations:life_events:death
+      pk: a71818ca0d3848a1aadf23ef3c841145
     - name:
         source: Divorce
         tx:
           he: גירושין
       slug: human_situations:life_events:divorce
+      pk: 3871c79ea5e44d26b384d8f04cc5542e
     - name:
         source: Grief
         tx:
           he: אבל
       slug: human_situations:life_events:grief
+      pk: d14e963b75074db8a1cbfbff8100e70e
     - name:
         source: Wedding
         tx:
           he: חתונה
       slug: human_situations:life_events:wedding
+      pk: e0ae67fa68ed4c5b96b6b10624f9cdd6
+    pk: d272f67de16245febdf2b860795d9fed
   - name:
       source: Mental Health
       tx:
@@ -2286,41 +2722,51 @@
           tx:
             he: בעלי הפרעות חרדה
         slug: human_situations:mental_health:mental_conditions_and_diseases:anxiety
+        pk: ed11e7e7a6034b2086507ec541c3c5fc
       - name:
           source: Bipolar
           tx:
             he: בעלי הפרעה קוטבית
         slug: human_situations:mental_health:mental_conditions_and_diseases:bipolar
+        pk: 7cfdb0d78fd54b66b545f58ac57ae9c6
       - name:
           source: Brain Injury
           tx:
             he: בעלי פציעת ראש
         slug: human_situations:mental_health:mental_conditions_and_diseases:brain_injury
+        pk: a0252248d5314d079d4ab8cf9a5dfd3e
       - name:
           source: Depression
           tx:
             he: אנשים עם דיכאון
         slug: human_situations:mental_health:mental_conditions_and_diseases:depression
+        pk: f96a22122ddb49eea06aa0a5d4e3f1bb
       - name:
           source: Eating Disorder
           tx:
             he: בעלי הפרעות אכילה
         slug: human_situations:mental_health:mental_conditions_and_diseases:eating_disorder
+        pk: e7f44defced34543b24878fda4d0b48f
       - name:
           source: PTSD
           tx:
             he: בעלי הפרעת דחק פוסט טראומתית (PTSD)
         slug: human_situations:mental_health:mental_conditions_and_diseases:ptsd
+        pk: b10f0e1a798846b7a9bb9d1daf4f7602
       - name:
           source: Schizophrenia
           tx:
             he: חולי סכיזופרניה
         slug: human_situations:mental_health:mental_conditions_and_diseases:schizophrenia
+        pk: 813ad69a4b8f48b6ac62ee50de2cb3ba
       - name:
           source: Suicidal Thoughts
           tx:
             he: בעלי מחשבות אובדניות
         slug: human_situations:mental_health:mental_conditions_and_diseases:suicidal_thoughts
+        pk: 515916476fbf4a338052c588b9233ea4
+      pk: 78a0406db4a840e692708877dba753c2
+    pk: dca6b6a9a09341d59c60139b7b773dd1
   - name:
       source: Role
       tx:
@@ -2332,21 +2778,26 @@
         tx:
           he: מטפלים
       slug: human_situations:role:caregivers
+      pk: 917f12cf58674beea23d0999120c5e74
     - name:
         source: Dependents
         tx:
           he: תלויים
       slug: human_situations:role:dependents
+      pk: 3e98181a8c8e48c9b8048418e13b3931
     - name:
         source: Family Caregivers
         tx:
           he: בני משפחה מטפלים
       slug: human_situations:role:family_caregivers
+      pk: c5c293c7aeaa4bf79125c311d16ebada
     - name:
         source: Spouses
         tx:
           he: בני ובנות זוג
       slug: human_situations:role:spouses
+      pk: cc36af1830c24eacba8a5d3c1c13ef05
+    pk: 762f2de5f16445929a2d6698f8aea740
   - name:
       source: Sectors
       tx:
@@ -2358,26 +2809,31 @@
         tx:
           he: החברה הערבית
       slug: human_situations:sectors:arabs
+      pk: d80a33beb6324f41b24e59fe596233ca
     - name:
         source: Bedouin
         tx:
           he: החברה הבדואית
       slug: human_situations:sectors:bedouin
+      pk: fb0a90154dee4e0bb461d4d27d51bc27
     - name:
         source: Christians
         tx:
           he: נוצרים
       slug: human_situations:sectors:christians
+      pk: 1025ac6b13aa4832ae1649516ec859c6
     - name:
         source: Circassians
         tx:
           he: החברה הצ'רקסית
       slug: human_situations:sectors:circassians
+      pk: 914b090755b64abda1275a8aafc6ad3f
     - name:
         source: Druze
         tx:
           he: החברה הדרוזית
       slug: human_situations:sectors:druze
+      pk: b71323611e604e6ca42f2f1c825b357c
     - name:
         source: Jews
         tx:
@@ -2389,41 +2845,51 @@
           tx:
             he: החברה החרדית
         slug: human_situations:sectors:jews:ultra_orthodox
+        pk: 3763f53274df4c4bb53a170be446cb4e
       - name:
           source: Secular
           tx:
             he: יהדות חילונית
         slug: human_situations:sectors:jews:secular
+        pk: 6e0e466bcd494bafb19bf57568150ae8
       - name:
           source: Dati Leumi
           tx:
             he: דתיים לאומיים
         slug: human_situations:sectors:jews:dati_leumi
+        pk: 47cd4cfecfb74447993cf1dbb33a0bb9
       - name:
           source: Hozer Betshuva
           tx:
             he: חוזרים בתשובה
         slug: human_situations:sectors:jews:hozer_betshuva
+        pk: 48e99abba4b74faa9f6226b33190ad89
       - name:
           source: Yotze Beshela
           tx:
             he: יוצאים בשאלה
         slug: human_situations:sectors:jews:yotze_beshela
+        pk: 898faee01c594cbba272c891713d891c
       - name:
           source: Progressives
           tx:
             he: יהדות מתקדמת
         slug: human_situations:sectors:jews:progressives
+        pk: 1902504f0bd64462b51219b24a737c99
       - name:
           source: Ethiopians
           tx:
             he: יוצאי אתיופיה
         slug: human_situations:sectors:jews:ethiopians
+        pk: 8915a06104cd40fb98dc9ad098740371
+      pk: ea02a4d2680f45618e04fbd2b941cbc4
     - name:
         source: Muslims
         tx:
           he: מוסלמים
       slug: human_situations:sectors:muslims
+      pk: 5a59616d6ac74528a60c161424b32784
+    pk: 1012f73f353c434fa119d8be29297622
   - name:
       source: Sexuality
       tx:
@@ -2435,6 +2901,8 @@
         tx:
           he: להט"ב
       slug: human_situations:sexuality:lgbtq
+      pk: 3f84101cce2a4cc88221a3d40aeb431b
+    pk: 8bcf58b9ec114047901179fdb5121af9
   - name:
       source: Substance Dependency
       tx:
@@ -2446,26 +2914,32 @@
         tx:
           he: מכורי אלכוהול
       slug: human_situations:substance_dependency:alcohol_dependency
+      pk: 5181b42c1964462aafe2b4de4b8aa60d
     - name:
         source: Dual Diagnosis
         tx:
           he: מכורי אלכוהול וסמים
       slug: human_situations:substance_dependency:dual_diagnosis
+      pk: e5f67899bb7e417993f6b96bccb09896
     - name:
         source: Gambling
         tx:
           he: מכורי הימורים
       slug: human_situations:substance_dependency:gambling
+      pk: 1b36aff27aa340158df63871d3b5e3b0
     - name:
         source: Opioid Dependency
         tx:
           he: מכורי סמים
       slug: human_situations:substance_dependency:opioid_dependency
+      pk: ff5f57cafc5e4ab6b5b426d554ed5230
     - name:
         source: Smoker
         tx:
           he: מעשנים
       slug: human_situations:substance_dependency:smoker
+      pk: 2116367e28a44b38aecdd7beb1456959
+    pk: 451ddeeabe384ba587a18a716a5fe834
   - name:
       source: Survivors
       tx:
@@ -2477,16 +2951,19 @@
         tx:
           he: נפגעי התעללות או הזנחה
       slug: human_situations:survivors:abuse_or_neglect_survivors
+      pk: a9cb579609844b3fadc8edc0c8a2fd0b
     - name:
         source: Burn Survivors
         tx:
           he: נפגעי כוויה
       slug: human_situations:survivors:burn_survivors
+      pk: 4dac68e44fb94da39d87179441bf3380
     - name:
         source: Car Accidents Survivors
         tx:
           he: נפגעי תאונות דרכים
       slug: human_situations:survivors:car_accidents_survivors
+      pk: 8e48610b85384acfbe65ac03cb57d99b
     - name:
         source: Violence Survivors
         tx:
@@ -2498,53 +2975,66 @@
           tx:
             he: נפגעות אלימות במשפחה
         slug: human_situations:survivors:violence_survivors:domestic_violence_survivors
+        pk: d12d570a1eaa45e38ac41d5cd7a275fd
       - name:
           source: Sexual Assault Survivors
           tx:
             he: נפגעות אלימות מינית
         slug: human_situations:survivors:violence_survivors:sexual_assault_survivors
+        pk: 952352c540f54ea78de4d1d8c7e86f2f
+      pk: 94f3a26bfbcd449ca7e8e2290cbe9c0c
     - name:
         source: Human Trafficking Survivors
         tx:
           he: נפגעי סחר בבני אדם
       slug: human_situations:survivors:human_trafficking_survivors
+      pk: a938a30805f94893aaafce72656c4a30
     - name:
         source: Natural Disaster Survivors
         tx:
           he: נפגעי אסון טבע
       slug: human_situations:survivors:natural_disaster_survivors
+      pk: a5c9b8c9935240dca7a54c26ea5c8610
     - name:
         source: Prostition Survivors
         tx:
           he: קורבנות זנות
       slug: human_situations:survivors:prostition_survivors
+      pk: 8b7d4890f7904f858398147a83f72e54
     - name:
         source: Trauma Survivors
         tx:
           he: נפגעי טראומה
       slug: human_situations:survivors:trauma_survivors
+      pk: 89d27ba885f04c8ca779b136d68d10ba
     - name: Offence Survivors
       slug: human_situations:survivors:offence_survivors
+      pk: d2cfabbcca3f4aa6ad2602c4e0e4c731
     - name:
         source: Evacuees
         tx:
           he: מפונים
       slug: human_situations:survivors:evacuees
+      pk: 761b260172f74aa3ad12ba32bb67326a
     - name:
         source: Wounded
         tx:
           he: פצועים
       slug: human_situations:survivors:wounded
+      pk: 745c0364c5ef4bb193a063f58d6d2a40
     - name:
         source: Families of Missing Persons
         tx:
           he: משפחות של נעדרים
       slug: human_situations:survivors:families_of_missing_persons
+      pk: 36d5a9e25b284d9ead230e58844a1a55
     - name:
         source: Victims of Terror
         tx:
           he: שורדי פעולות איבה
       slug: human_situations:survivors:victims_of_terror
+      pk: 103d039bf54843229af52dba74c857f4
+    pk: a2684a2e99944582a67a4f6f95e5a956
   - name:
       source: Urgency
       tx:
@@ -2556,13 +3046,18 @@
         tx:
           he: מצב חירום
       slug: human_situations:urgency:emergency
+      pk: b72d8b2dbe4b484f9a932ebadad22159
     - name:
         source: In Crisis
         tx:
           he: אנשים במשבר נפשי
       slug: human_situations:urgency:in_crisis
+      pk: 6d5b7ad28c6e48478db74d5707da10d2
     - name:
         source: In Danger
         tx:
           he: אנשים בסיכון
       slug: human_situations:urgency:in_danger
+      pk: 6846242c31d2497ea168c758965a765a
+    pk: 969a0a9d16dc4bfeb5c45b620d57fbda
+  pk: 6961b3dd511e4ede8061ae799916babb
